@@ -7,7 +7,7 @@
 
 # Site settings
 title: 杨敬轩的技术专栏
-brief-intro: Python, Matlab and LaTeX Coder; Autonomous Driving Researcher
+brief-intro: Python, MATLAB and LaTeX Coder; Autonomous Driving Researcher
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hithu-yangjingxuan.github.io" # the base hostname & protocol for your site
 
