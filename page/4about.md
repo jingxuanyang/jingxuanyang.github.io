@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-<iframe src="https://githubbadge.appspot.com/JingXuan-Yang?s=1" style="border: 0;height: 300px;width: 400px;overflow: hidden;" frameBorder="0"></iframe>
+<iframe src="https://githubbadge.appspot.com/JingXuan-Yang?s=1" style="border: 0;height: 128px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 目前为哈尔滨工业大学（深圳）机电工程与自动化学院机械设计制造及其自动化专业大四学生。
 
