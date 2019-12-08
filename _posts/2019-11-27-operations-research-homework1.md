@@ -10,7 +10,7 @@ mathjax: true
 
 This is operations research homework 1, [repo link]: https://github.com/JingXuan-Yang/Operations-Research-Solutions/blob/master/Homework1.
 
-```
+```latex
 % !Mode:: "TeX:UTF-8"
 % !TEX program  = pdflatex
 \documentclass[a4paper]{article}
