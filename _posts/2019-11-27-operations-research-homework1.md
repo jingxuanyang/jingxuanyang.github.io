@@ -2,8 +2,8 @@
 layout: post
 title:  "Operations Research Homework 1"
 date:   2019-11-27
-categories: operations research
-tags: operations research homework
+categories: operations-research
+tags: operations-research homework
 excerpt: solutions to operations research homework1
 mathjax: true
 ---
