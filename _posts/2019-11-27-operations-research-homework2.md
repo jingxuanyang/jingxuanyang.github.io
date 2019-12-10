@@ -580,6 +580,8 @@ Let $x_5$ and $x_6$ denote the slack variables for the respective constraints. A
 
 ## Setting file
 
+Associated settings file is:
+
 ```latex
 \usepackage[T1]{fontenc}
 \usepackage{amsmath, amssymb, amsthm}
