@@ -4,12 +4,14 @@ title:  "Operations Research Homework 1"
 date:   2019-11-27
 categories: operations-research
 tags: operations-research homework
-excerpt: solutions to operations research homework1
+author: Jingxuan Yang
 mathjax: true
 ---
 
-This is operations research homework 1, [repo link]: https://github.com/JingXuan-Yang/Operations-Research-Solutions/blob/master/Homework1. The style used is Tsinghua coursework.
+## Introduction
+This is operations research homework 1, [original repo link](https://github.com/JingXuan-Yang/Operations-Research-Solutions/blob/master/Homework1). The style used is Tsinghua coursework.
 
+## Main file
 ```latex
 % !Mode:: "TeX:UTF-8"
 % !TEX program  = pdflatex
@@ -168,6 +170,7 @@ Any portion of these cargoes can be accepted. The objective is to determine how 
 \end{document}
 ```
 
+## Setting file
 Associated settings file is:
 
 ```latex
