@@ -11,10 +11,13 @@ mathjax: true
 * content
 {:toc}
 
+
 ## Introduction
+
 This is operations research homework 1, [original repo link](https://github.com/JingXuan-Yang/Operations-Research-Solutions/blob/master/Homework1). The style used is Tsinghua coursework.
 
 ## Main file
+
 ```latex
 % !Mode:: "TeX:UTF-8"
 % !TEX program  = pdflatex
@@ -174,6 +177,7 @@ Any portion of these cargoes can be accepted. The objective is to determine how 
 ```
 
 ## Setting file
+
 Associated settings file is:
 
 ```latex
