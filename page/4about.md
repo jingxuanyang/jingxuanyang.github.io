@@ -22,7 +22,7 @@ type: page
 ## 联系我
 
 * GitHub：[JingXuan-Yang](https://github.com/JingXuan-Yang)
-* email：yangjingxuan@stu.hit.edu.cn
+* Email：yangjingxuan@stu.hit.edu.cn
 * 微信公众号：[九一居士](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NzMzOTE5OQ==&hid=1&sn=175e47d89ad31c72d2a762f7c50c0ac2&scene=18#wechat_redirect)
 
 ## 关于本站
