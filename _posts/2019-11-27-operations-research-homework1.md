@@ -19,13 +19,7 @@ This is operations research homework 1, [original repo link](https://github.com/
 
 
 
-
-
 ## Main file
-
-
-
-
 
 ```latex
 % !Mode:: "TeX:UTF-8"
