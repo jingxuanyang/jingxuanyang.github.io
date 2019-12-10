@@ -13,9 +13,19 @@ author: Jingxuan Yang
 
 ## Introduction
 
-This is operations research homework 1, [original repo link](https://github.com/JingXuan-Yang/Operations-Research-Solutions/blob/master/Homework1). The style used is Tsinghua coursework.
+
+This is operations research homework 1, [original repo link](https://github.com/JingXuan-Yang/Operations-Research-Solutions/blob/master/Homework1). Corresponding textbook: Introduction to Operations Research, 10th edition, Frederick S. Hillier & Gerald J. Lieberman. The style used is Tsinghua coursework.
+
+
+
+
+
 
 ## Main file
+
+
+
+
 
 ```latex
 % !Mode:: "TeX:UTF-8"
