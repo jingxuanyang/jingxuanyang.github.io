@@ -5,7 +5,6 @@ date:   2019-11-27
 categories: operations-research
 tags: operations-research homework
 author: Jingxuan Yang
-mathjax: true
 ---
 
 * content
