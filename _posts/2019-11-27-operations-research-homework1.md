@@ -8,6 +8,9 @@ author: Jingxuan Yang
 mathjax: true
 ---
 
+* content
+{:toc}
+
 ## Introduction
 This is operations research homework 1, [original repo link](https://github.com/JingXuan-Yang/Operations-Research-Solutions/blob/master/Homework1). The style used is Tsinghua coursework.
 
