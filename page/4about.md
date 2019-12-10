@@ -23,10 +23,7 @@ type: page
 
 * GitHub：[JingXuan-Yang](https://github.com/JingXuan-Yang)
 * email：yangjingxuan@stu.hit.edu.cn
-* [Weibo](http://weibo.com/u/5979225383)
-* [知乎](https://www.zhihu.com/people/)
-* [Facebook](https://www.facebook.com/)
-* [Twitter](https://twitter.com/)
+* 微信公众号：[九一居士](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NzMzOTE5OQ==&hid=1&sn=175e47d89ad31c72d2a762f7c50c0ac2&scene=18#wechat_redirect)
 
 ## 关于本站
 
