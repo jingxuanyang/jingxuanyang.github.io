@@ -14,7 +14,9 @@ type: page
 <iframe src="https://githubbadge.appspot.com/JingXuan-Yang?s=1" style="border: 0;height: 128px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
 杨敬轩，号**九一居士**，目前为哈尔滨工业大学（深圳）机电工程与自动化学院机械设计制造及其自动化专业大四学生。
+
 座右铭：为天地立心，为生命立命，为往圣继绝学，为万世开太平！
+
 最近更新：2019年12月12日
 
 ### 教育经历
