@@ -7,7 +7,7 @@
 
 # Site settings
 title: 杨敬轩的技术专栏
-brief-intro: Autonomous Driving Researcher
+brief-intro: Autonomous Driving Engineer
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://hithu-yangjingxuan.github.io" # the base hostname & protocol for your site
 
@@ -23,7 +23,7 @@ zhihu_username:
 linkedIn_username: 
 dribbble_username:
 
-description_footer: 来自杨敬轩的个人专栏！
+description_footer: 本站记录我学习之旅的沿途风景！
 
 # comments
 # two ways to comment, only choose one, and use your own short name
