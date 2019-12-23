@@ -1,7 +1,7 @@
 ---
 layout: post
 title:  "Operations Research Homework 2"
-date:   2019-12-09
+date:   2019-11-14
 categories: operations-research
 tags: operations-research homework
 author: Jingxuan Yang
