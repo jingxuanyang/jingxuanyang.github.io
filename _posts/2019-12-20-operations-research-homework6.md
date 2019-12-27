@@ -157,7 +157,7 @@ Solve this problem by dynamic programming.
 	  		\cmidrule{2-5}
 	  		\diagbox[width=3em]{$s_1$}{$x_1$}&\hspace*{0.4cm}1\hspace*{0.4cm}&\hspace*{0.4cm}2\hspace*{0.4cm}&\hspace*{0.4cm}3\hspace*{0.4cm}&\hspace*{0.4cm}4\hspace*{0.4cm}&$f_1^*(s_1)$&$x_1^*$\\
 	  		\midrule
-			7&21&23&21&20&23&2\\
+			7&22&23&21&20&23&2\\
 	  		\bottomrule[1.5pt]
 	  	\end{tabular}
   	\end{table}
@@ -221,7 +221,7 @@ f_3&=0.60+0.07x_3\\
 	  		\toprule[1.5pt]
 	  		$s_3$&$f_3^*(s_3)$&$x_3^*$\\
 	  		\midrule
-			$0\ls s_3\ls4$&$0.60+0.70s_3$&$s_3$\\
+			$0\ls s_3\ls4$&$0.60+0.07s_3$&$s_3$\\
 	  		\bottomrule[1.5pt]
 	  	\end{tabular}
   	\end{table}
@@ -363,9 +363,9 @@ f_3&=0.60+0.07x_3\\
 	For $s_n\gs5000,$
 	\begin{equation*}f_n(s_n,x_n)=\left\{
 		\begin{aligned}	
-		&f_{n+1}^*(s_n), &\text{ if}\ x=0\, \\
-		&0.3f_{n+1}^*(s_n-5000)+0.7f_{n+1}^*(s_n+5000), &\text{if}\ x=A\\
-		&0.9f_{n+1}^*(s_n)+0.1f_{n+1}^*(s_n+5000), &\text{if}\ x=B\\
+		&f_{n+1}^*(s_n), &\text{ if}\ x_n=0\, \\
+		&0.3f_{n+1}^*(s_n-5000)+0.7f_{n+1}^*(s_n+5000), &\text{if}\ x_n=A\\
+		&0.9f_{n+1}^*(s_n)+0.1f_{n+1}^*(s_n+5000), &\text{if}\ x_n=B\\
 		\end{aligned}\right.
 	\end{equation*}
 	Beginning with the last stage $(n=3)$, the calculations are shown in Tab.\ref{tab33}.
@@ -397,8 +397,8 @@ f_3&=0.60+0.07x_3\\
 	  		\diagbox[width=9em]{$s_2$}{$x_2$}&\hspace*{0.4cm}0\hspace*{0.4cm}&\hspace*{0.4cm}$A$\hspace*{0.4cm}&\hspace*{0.4cm}$B$\hspace*{0.4cm}&$f_2^*(s_2)$&$x_2^*$\\
 	  		\midrule
 			$0\ls s_2<5000$&$s_2$&&&$s_2$&0\\
-			$5000\ls s_2<10000$&$s_2$&$s_2+3400$&$s_2+2500$&$s_2+3400$&$A$\\
-			$ s_2\gs10000$&$s_2$&$s_2+4000$&$s_2+2500$&$s_2+4000$&$A$\\
+			$5000\ls s_2<10000$&$s_2+2000$&$s_2+3400$&$s_2+2500$&$s_2+3400$&$A$\\
+			$ s_2\gs10000$&$s_2+2000$&$s_2+4000$&$s_2+2500$&$s_2+4000$&$A$\\
 	  		\bottomrule[1.5pt]
 	  	\end{tabular}
   	\end{table}
@@ -435,6 +435,7 @@ f_3&=0.60+0.07x_3\\
 %  \lstinputlisting[caption=FigurePlot]{matlabscript.m}
   
 \end{document}
+
 ```
 
 ## Setting file
