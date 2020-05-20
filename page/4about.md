@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-![biography](../figures/bio.jpg)
+![biography](../figures/bio.jpeg)
 
 杨敬轩，自号九一居士，座右铭：为天地立心，为生命立命，为往圣继绝学，为万世开太平！
 
