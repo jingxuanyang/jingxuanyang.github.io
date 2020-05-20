@@ -13,6 +13,8 @@ type: page
 
 <iframe src="https://githubbadge.appspot.com/JingXuan-Yang?s=1" style="border: 0;height: 128px;width: 200px;overflow: hidden;" frameBorder="0"></iframe>
 
+![个人照片](./figures/identity.jpg)
+
 杨敬轩，自号九一居士，座右铭：为天地立心，为生命立命，为往圣继绝学，为万世开太平！
 
 * **学校**：哈尔滨工业大学（深圳）
