@@ -20,7 +20,7 @@ type: page
 * **专业**：机械设计制造及其自动化
 * **年级**：2016级本科
 
-最近更新：2020年06月
+最近更新：2020年07月
 
 ### 教育经历
 * 2016.08-2020.06 大学：[哈尔滨工业大学（深圳）](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89)，平均学分绩94.654分，推免综合考评成绩99.654分，均位列全系1/68
@@ -32,7 +32,11 @@ type: page
 * 2011.03 唐山市三好学生
 * 2012.02 校级三好学生
 * 2013.01 校级优秀学生干部
+* 2014.03 遵化市三好学生
+* 2014.10 河北省高中数学竞赛高二组一等奖
+* 2014.12 全国中学生英语能力竞赛高中二年级组二等奖
 * 2015.04 河北省三好学生
+* 2015.10 河北省高中数学竞赛高三组一等奖
 * 2016.04 河北省三好学生
 * 2017.05 校级优秀团干部标兵
 * 2017.05 全国大学生英语竞赛二等奖
@@ -56,15 +60,21 @@ type: page
 
 ## 联系我
 
-* GitHub：[JingXuan-Yang](https://github.com/JingXuan-Yang)
-* Email：[yangjingxuanstu.hit.edu.cn](mailto:yangjingxuan@stu.hit.edu.cn)
+* Email：[yangjingxuan@stu.hit.edu.cn](mailto:yangjingxuan@stu.hit.edu.cn)
+* GitHub：[jingxuanyang](https://github.com/jingxuanyang)
+* Gitee：[jingxuanyang](https://gitee.com/jingxuanyang)
+* GitLab：[jingxuanyang](https://gitlab.com/jingxuanyang)
+* CSDN：[jingxuanyang](https://me.csdn.net/csdn_jacksonyoung)
+* 知乎：[九一居士](https://www.zhihu.com/people/jingxuanyang)
 * 微信公众号：[九一居士](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NzMzOTE5OQ==&hid=1&sn=175e47d89ad31c72d2a762f7c50c0ac2&scene=18#wechat_redirect)
+* 博客园：[九一居士](https://www.cnblogs.com/yangjingxuan/)
+* 简书：[九一居士](https://www.jianshu.com/u/268643305b4e)
 
 ## 关于本站
 
-若您想使用这个 jekyll 博客主题，请访问：[hithu-yangjingxuan.github.io](https://github.com/hithu-yangjingxuan/hithu-yangjingxuan.github.io)
+若您想使用这个 jekyll 博客主题，请访问：[jingxuanyang.github.io](https://github.com/jingxuanyang/jingxuanyang.github.io)
 
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/hithu-yangjingxuan/hithu-yangjingxuan.github.io/issues)。
+欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/jingxuanyang/jingxuanyang.github.io/issues)。
 
 ## Comments
 
