@@ -57,7 +57,7 @@ type: page
 
 ## 联系我
 
-* Email：[yangjingxuan@stu.hit.edu.cn](mailto:yangjingxuan@stu.hit.edu.cn)
+* Email：[yangjx20@mails.tsinghua.edu.cn](mailto:yangjx20@mails.tsinghua.edu.cn)
 * GitHub：[jingxuanyang](https://github.com/jingxuanyang)
 * Gitee：[jingxuanyang](https://gitee.com/jingxuanyang)
 * GitLab：[jingxuanyang](https://gitlab.com/jingxuanyang)
