@@ -7,19 +7,19 @@
 
 # Site settings
 title: 杨敬轩的技术专栏
-brief-intro: Autonomous Driving Engineer
+brief-intro: Postgraduate in Department of Automation
 baseurl: "" # the subpath of your site, e.g. /blog
-url: "https://hithu-yangjingxuan.github.io" # the base hostname & protocol for your site
+url: "https://jingxuanyang.github.io" # the base hostname & protocol for your site
 
 permalink: /:year/:month/:day/:title/
 
 # other links
 twitter_username: #
 facebook_username: #
-github_username:  JingXuan-Yang
-email: yangjingxuan@stu.hit.edu.cn
+github_username: jingxuanyang
+email: yangjx20@mails.tsinghua.edu.cn
 weibo_username: 
-zhihu_username: 
+zhihu_username: jingxuanyang
 linkedIn_username: 
 dribbble_username:
 
