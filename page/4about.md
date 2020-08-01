@@ -66,6 +66,7 @@ type: page
 * 微信公众号：[九一居士](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NzMzOTE5OQ==&hid=1&sn=175e47d89ad31c72d2a762f7c50c0ac2&scene=18#wechat_redirect)
 * 博客园：[九一居士](https://www.cnblogs.com/yangjingxuan/)
 * 简书：[九一居士](https://www.jianshu.com/u/268643305b4e)
+* 新浪：[九一居士](http://blog.sina.com.cn/jxyangsgr)
 
 ## 关于本站
 
