@@ -20,6 +20,9 @@ author: Jingxuan Yang
 
 **hitszbeamer** is a **beamer theme** designed for Harbin Institute of Technology, ShenZhen (HITSZ). Current version is 1.0.0, updated on 2020/03/17.
 
+
+
+
 ```latex
   |- figures
     |- hitlogo.jpg
