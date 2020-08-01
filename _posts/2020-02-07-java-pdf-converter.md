@@ -5,6 +5,7 @@ date:   2020-02-07
 categories: java-sourcecode
 tags: java-sourcecode pdf-converter
 author: Jingxuan Yang
+mathjax: true
 ---
 
 * content
