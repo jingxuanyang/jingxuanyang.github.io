@@ -1,22 +1,11 @@
 ---
 layout: post
-title:  "Dissertation Template for Harbin Institute of Technology, ShenZhen"
+title:  "hitszthesis: Dissertation Template for Harbin Institute of Technology, ShenZhen"
 date:   2020-03-13
 categories: dissertation-template
 tags: dissertation-template latex-template hitszthesis
 author: Jingxuan Yang
 ---
-
-## hitszthesis: Dissertation Template for Harbin Institute of Technology, ShenZhen (HITSZ)
-
-## hitszthesis：哈尔滨工业大学（深圳）本硕博学位论文$\LaTeX$模板
-
-![CTAN Version](https://img.shields.io/ctan/v/hitszthesis.svg)
-![GitHub Version](https://img.shields.io/github/release/YangLaTeX/hitszthesis.svg)
-![Repo Size](https://img.shields.io/github/repo-size/YangLaTeX/hitszthesis.svg)
-![License](https://img.shields.io/ctan/l/hitszthesis.svg)
-
-[GitHub](https://github.com/YangLaTeX/hitszthesis) | [Gitee](https://gitee.com/jingxuanyang/hitszthesis) | [GitLab](https://gitlab.com/jingxuanyang/hitszthesis) | [Wiki](https://github.com/YangLaTeX/hitszthesis/wiki) | [CTAN](https://www.ctan.org/pkg/hitszthesis)
 
 ## Introduction to hitszthesis
 
