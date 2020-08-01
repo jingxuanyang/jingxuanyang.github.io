@@ -10,15 +10,10 @@ author: Jingxuan Yang
 * content
 {:toc}
 
-## hitszbeamer: A Beamer Theme for Harbin Institute of Technology, ShenZhen (HITSZ)
-
-## hitszbeamer：哈尔滨工业大学（深圳）Beamer模板
-
-[Github](https://github.com/YangLaTeX/hitszbeamer) | [Download](https://github.com/YangLaTeX/hitszbeamer/releases) | [Wiki](https://github.com/YangLaTeX/hitszbeamer/wiki) | [CTAN](https://www.ctan.org/pkg/hitszbeamer)
-
 ## Introduction to hitszbeamer
 
 **hitszbeamer** is a **beamer theme** designed for Harbin Institute of Technology, ShenZhen (HITSZ). Current version is 1.0.0, updated on 2020/03/17.
+
 
 
 
