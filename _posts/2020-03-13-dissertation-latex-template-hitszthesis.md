@@ -22,6 +22,9 @@ author: Jingxuan Yang
 
 HITSZThesis is a **dissertation** LaTeX template for **Harbin Institute of Technology, ShenZhen** (HITSZ), including bachelor, master and doctor dissertations. Current version is 3.0.4, updated on 2020/03/13. Note that 3.x version is not compatible with 2.x version. Please join QQ group: 1039392552 to report issues.
 
+
+
+
 ```latex
   |- front
     |- coverinformation.tex
