@@ -19,7 +19,7 @@ type: page
 
 ### 教育经历
 * 2020.08- present 研究生：[清华大学](https://baike.baidu.com/item/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/111764?fr=aladdin)，自动化系，控制科学与工程专业
-* 2016.08-2020.06 大学：[哈尔滨工业大学（深圳）](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89)，机电工程与自动化学院，机械设计制造及其自动化专业，平均学分绩94.654分，推免综合考评成绩99.654分，均位列全系1/68
+* 2016.08-2020.06 本科：[哈尔滨工业大学（深圳）](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89)，机电工程与自动化学院，机械设计制造及其自动化专业，平均学分绩94.654分，推免综合考评成绩99.654分，均位列全系1/68
 * 2017.09-2018.01 交流：[台湾清华大学](https://baike.baidu.com/item/%E5%8F%B0%E6%B9%BE%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6)，电机工程学系，考试课成绩均为A+，GPA: 4.28/4.30.
 * 2013.09-2016.06 高中：[遵化市第一中学](https://baike.baidu.com/item/%E9%81%B5%E5%8C%96%E5%B8%82%E7%AC%AC%E4%B8%80%E4%B8%AD%E5%AD%A6)，高考664分，全校第2名、[河北省第2691名](http://file.hebeea.edu.cn/files/2016/06/20160623095712856.pdf)
 * 2010.09-2013.06 初中：[东旧寨镇中学](https://www.meipian.cn/1fvv15rk)
@@ -61,7 +61,7 @@ type: page
 * GitHub：[jingxuanyang](https://github.com/jingxuanyang)
 * Gitee：[jingxuanyang](https://gitee.com/jingxuanyang)
 * GitLab：[jingxuanyang](https://gitlab.com/jingxuanyang)
-* CSDN：[jingxuanyang](https://me.csdn.net/csdn_jacksonyoung)
+* CSDN：[九一居士](https://me.csdn.net/csdn_jacksonyoung)
 * 知乎：[九一居士](https://www.zhihu.com/people/jingxuanyang)
 * 微信公众号：[九一居士](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NzMzOTE5OQ==&hid=1&sn=175e47d89ad31c72d2a762f7c50c0ac2&scene=18#wechat_redirect)
 * 博客园：[九一居士](https://www.cnblogs.com/yangjingxuan/)
