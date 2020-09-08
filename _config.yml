@@ -7,7 +7,7 @@
 
 # Site settings
 title: 杨敬轩的技术专栏
-brief-intro: Postgraduate in Department of Automation
+brief-intro: Department of Automation, Tsinghua University
 baseurl: "" # the subpath of your site, e.g. /blog
 url: "https://jingxuanyang.github.io" # the base hostname & protocol for your site
 
