@@ -5,6 +5,7 @@ date:   2021-01-29
 categories: applied-stochastic-process
 tags: applied-stochastic-process stochastic-process Brownian-motion
 author: Jingxuan Yang
+mathjax: true
 ---
 
 * content
