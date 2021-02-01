@@ -5,6 +5,7 @@ date:   2021-01-25
 categories: applied-stochastic-process
 tags: applied-stochastic-process stochastic-process probability
 author: Jingxuan Yang
+mathjax: true
 ---
 
 * content
