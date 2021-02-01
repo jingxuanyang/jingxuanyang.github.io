@@ -5,6 +5,7 @@ date:   2021-01-28
 categories: applied-stochastic-process
 tags: applied-stochastic-process stochastic-process Martingale
 author: Jingxuan Yang
+mathjax: true
 ---
 
 * content
