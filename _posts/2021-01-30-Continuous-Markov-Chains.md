@@ -5,6 +5,7 @@ date:   2021-01-30
 categories: applied-stochastic-process
 tags: applied-stochastic-process stochastic-process continuous-Markov-chains
 author: Jingxuan Yang
+mathjax: true
 ---
 
 * content
