@@ -5,6 +5,7 @@ date:   2021-01-26
 categories: applied-stochastic-process
 tags: applied-stochastic-process stochastic-process Poisson-process
 author: Jingxuan Yang
+mathjax: true
 ---
 
 * content
