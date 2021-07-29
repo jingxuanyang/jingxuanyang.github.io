@@ -1,6 +1,6 @@
 # About this Cool Concise Jekyll Blog Theme
 
-**[中文版 Chinese README 请点击这里 🇨🇳](https://github.com/Gaohaoyang/gaohaoyang.github.io/blob/master/README-zh-cn.md)**
+**[中文版 Chinese README 请点击这里 🇨🇳](https://github.com/jingxuanyang/jingxuanyang.github.io/blob/master/README-zh-cn.md)**
 
 **My Blog Url: [http://jingxuanyang.com/](http://jingxuanyang.com/)**. If you like this theme, you can give me a star to encourage me. Welcome everyone to use it.
 
