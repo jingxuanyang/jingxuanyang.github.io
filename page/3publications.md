@@ -12,7 +12,7 @@ type: page
 ## 会议论文
 
 + Ye Tian, Huaxin Pei, Jingxuan Yang, Jianming Hu, Yi Zhang, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", 
-24th IEEE International Conference on Intelligent Transportation, 2021. [[pdf](https://www.researchgate.net/profile/Huaxin-Pei/publication/353287426_An_Improved_Model_of_Driving_Risk_Field_for_Connected_and_Automated_Vehicles/links/60f153df0859317dbde6369d/An-Improved-Model-of-Driving-Risk-Field-for-Connected-and-Automated-Vehicles.pdf?origin=profileFeaturedResearchPublicationItem)]
+24th IEEE International Conference on Intelligent Transportation, 2021. [[pdf](http://www.jingxuanyang.com/file_upload/2021%20An%20Improved%20Model%20of%20Driving%20Risk%20Field%20for%20Connected%20and%20Automated%20Vehicles.pdf)]
 
 
 ## Comments
