@@ -18,5 +18,6 @@ type: page
 
 + 杨敬轩，B样条曲线MATLAB-GUI程序系统V1.0，中国，登记号：2019SR0804060
 
-<!-- <h2 id="comments">Comments</h2> -->
+## Comments
+
 {% include comments.html %}
