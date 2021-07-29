@@ -2,7 +2,7 @@
 layout: page
 title: Patents
 permalink: /patent/
-icon: play
+icon: book-reader
 type: page
 ---
 
