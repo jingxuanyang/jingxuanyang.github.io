@@ -1,5 +1,5 @@
 ---
-layout: demo
+layout: page
 title: Patents
 permalink: /patent/
 icon: play
