@@ -2,7 +2,7 @@
 layout: page
 title: Publications
 permalink: /publication/
-icon: file-powerpoint
+icon: file-powerpoint-o
 type: page
 ---
 
