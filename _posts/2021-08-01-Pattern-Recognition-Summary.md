@@ -5,6 +5,7 @@ date:   2021-08-01
 categories: pattern-recognition
 tags: pattern-recognition deep-learning tsinghua-university
 author: Jingxuan Yang
+mathjax: true
 ---
 
 * content

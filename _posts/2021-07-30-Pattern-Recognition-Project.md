@@ -5,6 +5,7 @@ date:   2021-07-30
 categories: pattern-recognition
 tags: deep-learning pytorch kaggle
 author: Jingxuan Yang
+mathjax: true
 ---
 
 * content
