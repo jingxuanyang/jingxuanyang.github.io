@@ -20,11 +20,11 @@ type: page
 最近更新：2021年08月
 
 ### 教育经历
-* 2020.08- present 研究生：[清华大学](https://baike.baidu.com/item/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/111764?fr=aladdin)，自动化系，控制科学与工程（一级学科），系统工程（二级学科），GPA：4.0/4.0
+* 2020.08- present 研究生：[清华大学](https://baike.baidu.com/item/%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6/111764?fr=aladdin)，自动化系，控制科学与工程（一级学科），系统工程（二级学科），GPA：4.0/4.0，排名：1/101
 * 2017.09-2018.01 交换：[台湾清华大学](https://baike.baidu.com/item/%E5%8F%B0%E6%B9%BE%E6%B8%85%E5%8D%8E%E5%A4%A7%E5%AD%A6)，电机工程学系，考试课成绩均为A+，GPA: 4.28/4.30
 * 2016.08-2020.06 本科：[哈尔滨工业大学（深圳）](https://baike.baidu.com/item/%E5%93%88%E5%B0%94%E6%BB%A8%E5%B7%A5%E4%B8%9A%E5%A4%A7%E5%AD%A6%EF%BC%88%E6%B7%B1%E5%9C%B3%EF%BC%89)，机电工程与自动化学院，机械设计制造及其自动化专业，平均学分绩：94.65/100，推免综合考评成绩：99.65/105，均位列全系1/68
 * 2013.09-2016.06 高中：[遵化市第一中学](https://baike.baidu.com/item/%E9%81%B5%E5%8C%96%E5%B8%82%E7%AC%AC%E4%B8%80%E4%B8%AD%E5%AD%A6)，高考664分，全校第2名、[河北省第2691名](http://file.hebeea.edu.cn/files/2016/06/20160623095712856.pdf)
-* 2010.09-2013.06 初中：[东旧寨镇中学](https://www.meipian.cn/1fvv15rk)
+* 2010.09-2013.06 初中：[东旧寨镇中学](https://baike.baidu.com/item/%E9%81%B5%E5%8C%96%E5%B8%82%E4%B8%9C%E6%97%A7%E5%AF%A8%E4%B8%AD%E5%AD%A6/4754334?fr=aladdin)
 
 ### 奖励荣誉
 * 2011.03 唐山市三好学生
