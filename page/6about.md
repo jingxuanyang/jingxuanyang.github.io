@@ -22,7 +22,7 @@ type: page
 ### 教育经历
 * 2020.09- present 研究生：[清华大学](https://www.tsinghua.edu.cn/)，[自动化系](https://www.au.tsinghua.edu.cn/index.htm)，[控制科学与工程](https://www.au.tsinghua.edu.cn/info/1033/1035.htm)（一级学科），系统工程（二级学科），GPA：[4.0/4.0](http://www.jingxuanyang.com/file_upload/transcript.pdf)，排名：[1/158](http://www.jingxuanyang.com/file_upload/ranking-certification.pdf)，导师：[张毅教授](https://www.au.tsinghua.edu.cn/info/1110/1574.htm)
 * 2017.09-2018.01 交换：[台湾清华大学](https://www.nthu.edu.tw/)，[电机工程学系](http://web.ee.nthu.edu.tw/)，考试课成绩均为A+，GPA：4.28/4.30
-* 2016.09-2020.06 本科：[哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/index.html)，机电工程与自动化学院，机械设计制造及其自动化专业，平均学分绩：[94.65/100](http://www.jingxuanyang.com/file_upload/ranking-certification-bachelor.pdf)，推免综合考评成绩：99.65/105，均位列全系：1/68
+* 2016.09-2020.06 本科：[哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/index.html)，机电工程与自动化学院，机械设计制造及其自动化专业，平均学分绩：[94.65/100](http://www.jingxuanyang.com/file_upload/ranking-certification-bachelor.pdf)，推免综合考评成绩：99.65/105，均位列全系：[1/68]((http://www.jingxuanyang.com/file_upload/ranking-certification-bachelor.pdf)
 * 2013.09-2016.06 高中：[遵化市第一中学](https://baike.baidu.com/item/%E9%81%B5%E5%8C%96%E5%B8%82%E7%AC%AC%E4%B8%80%E4%B8%AD%E5%AD%A6)，高考664分，全校第2名、[河北省第2691名](http://file.hebeea.edu.cn/files/2016/06/20160623095712856.pdf)
 * 2010.09-2013.06 初中：[东旧寨镇中学](https://baike.baidu.com/item/%E9%81%B5%E5%8C%96%E5%B8%82%E4%B8%9C%E6%97%A7%E5%AF%A8%E4%B8%AD%E5%AD%A6/4754334?fr=aladdin)
 
