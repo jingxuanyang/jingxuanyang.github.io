@@ -11,7 +11,7 @@ type: page
 
 ## 关于我
 
-![biography](../figures/bio.jpeg)
+![biography](../figures/bio.jpg)
 
 杨敬轩，字子渊，号九一居士
 
