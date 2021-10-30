@@ -1,1 +1,1 @@
-# figures of pattern recognition project
+# Figures of pattern recognition project
