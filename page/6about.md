@@ -61,7 +61,7 @@ type: page
 ## 联系我
 
 * Email：[yangjx20@mails.tsinghua.edu.cn](mailto:yangjx20@mails.tsinghua.edu.cn)
-* GitHub：[jingxuanyang](https://github.com/jingxuanyang)
+* GitHub：[jingxuanyang](https://github.com/jingxuanyang), [YangLaTeX](https://github.com/YangLaTeX)
 * Gitee：[jingxuanyang](https://gitee.com/jingxuanyang)
 * GitLab：[jingxuanyang](https://gitlab.com/jingxuanyang)
 * CSDN：[九一居士](https://me.csdn.net/csdn_jacksonyoung)
