@@ -61,9 +61,6 @@ type: page
 ## 联系我
 
 * Email：[yangjx20@mails.tsinghua.edu.cn](mailto:yangjx20@mails.tsinghua.edu.cn)
-* ORCID: [Jingxuan Yang](https://orcid.org/0000-0001-9798-7347)
-* ResearchGate: [Jingxuan Yang](https://www.researchgate.net/profile/Jingxuan-Yang-7)
-* Semantic Scholar: [Jingxuan Yang](https://www.semanticscholar.org/author/Jingxuan-Yang/2134844643)
 * GitHub：[jingxuanyang](https://github.com/jingxuanyang), [YangLaTeX](https://github.com/YangLaTeX)
 * Gitee：[jingxuanyang](https://gitee.com/jingxuanyang)
 * GitLab：[jingxuanyang](https://gitlab.com/jingxuanyang)
@@ -73,6 +70,13 @@ type: page
 * 博客园：[九一居士](https://www.cnblogs.com/yangjingxuan/)
 * 简书：[九一居士](https://www.jianshu.com/u/268643305b4e)
 * 新浪：[九一居士](http://blog.sina.com.cn/jxyangsgr)
+
+## 学术链接
+
+* ORCID: [Jingxuan Yang](https://orcid.org/0000-0001-9798-7347)
+* ResearchGate: [Jingxuan Yang](https://www.researchgate.net/profile/Jingxuan-Yang-7)
+* Google Scholar: [Jingxuan Yang](https://scholar.google.com/citations?user=I5BLLKQAAAAJ)
+* Semantic Scholar: [Jingxuan Yang](https://www.semanticscholar.org/author/Jingxuan-Yang/2134844643)
 
 ## 关于本站
 
