@@ -9,6 +9,10 @@ type: page
 * content
 {:toc}
 
+## 期刊论文
+
++ 
+
 ## 会议论文
 
 + Ye Tian, Huaxin Pei, Jingxuan Yang, Jianming Hu, Yi Zhang, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", 
