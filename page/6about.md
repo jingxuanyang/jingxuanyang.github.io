@@ -83,8 +83,6 @@ type: page
 
 若您想使用这个 jekyll 博客主题，请访问：[jingxuanyang.github.io](https://github.com/jingxuanyang/jingxuanyang.github.io)
 
-欢迎大家提一些对本站主题的建议，可以直接在下面留言或者新建一个 [Issue](https://github.com/jingxuanyang/jingxuanyang.github.io/issues)。
-
 ## Comments
 
 {% include comments.html %}
