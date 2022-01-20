@@ -15,18 +15,17 @@ type: page
   + 子课题“**群体协同控制系统设计与信息可信交互机制研究**”
 + [民航空管](http://www.atmb.net.cn/)科技项目“**民航空管数据安全共享模型研究**”，2021.1-2022.7
 + [清华大学自动化系-上海清鹤科技股份有限公司视频场景融合联合研究中心](https://www.tsinghua.edu.cn/kxyj/kyjg/lhgjjg.htm)横向课题“**医疗资源的智能优化调度系统研究**”，2021.1-2023.9
-+ 纵向课题“**智能系统测试验证**”，2021.11-2024.10
++ 纵向课题“**智能技术试验验证**”，2021.11-2024.10
 
 ## 期刊论文
 
-+ 
 + 
 + 
 
 ## 会议论文
 
 + Ye Tian, Huaxin Pei, Jingxuan Yang, Jianming Hu, Yi Zhang, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", 
-2021 IEEE International Intelligent Transportation Systems Conference (ITSC), pp. 285-291, 2021. [[pdf](https://www.jingxuanyang.com/file_upload/An_Improved_Model_of_Driving_Risk_Field_for_Connected_and_Automated_Vehicles.pdf)]
+IEEE International Intelligent Transportation Systems Conference (ITSC), pp. 285-291, 2021, doi: 10.1109/ITSC48978.2021.9565069. [[pdf](https://www.jingxuanyang.com/file_upload/An_Improved_Model_of_Driving_Risk_Field_for_Connected_and_Automated_Vehicles.pdf)]
 
 ## 发明专利
 
@@ -37,6 +36,7 @@ type: page
 ## 软件著作权
 
 + 杨敬轩，B样条曲线MATLAB-GUI程序系统V1.0，中国，登记号：2019SR0804060. [[pdf](https://www.jingxuanyang.com/file_upload/%E6%9D%A8%E6%95%AC%E8%BD%A9-2019%E5%B9%B48%E6%9C%88%E8%BD%AF%E4%BB%B6%E8%91%97%E4%BD%9C%E6%9D%83.pdf)]
++ 杨敬轩、张毅、裴欣，驾驶安全风险场仿真系统V1.0，中国，受理号：2022R11S0066305.
 
 ## Comments
 
