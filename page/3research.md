@@ -19,8 +19,8 @@ type: page
 
 ## 科技报告
 
-+ 张毅，葛宏伟，裴华鑫，晏松，杨敬轩，车路协同环境下交通群体协同决策机制、理论与应用，国家重点研发计划专题报告，2021.
-+ 杨晓光，孙棣华，胡笳，孙亮，陈博奎，杨敬轩，新型混合交通群体智能协同控制理论与典型应用实现，国家重点研发计划专题报告，2021.
++ 张毅，葛宏伟，裴华鑫，晏松，**杨敬轩**，车路协同环境下交通群体协同决策机制、理论与应用，国家重点研发计划专题报告，2021.
++ 杨晓光，孙棣华，胡笳，孙亮，陈博奎，**杨敬轩**，新型混合交通群体智能协同控制理论与典型应用实现，国家重点研发计划专题报告，2021.
 
 ## 期刊论文
 
@@ -29,20 +29,20 @@ type: page
 
 ## 会议论文
 
-+ Ye Tian, Huaxin Pei, Jingxuan Yang, Jianming Hu, Yi Zhang, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", 
++ **Jingxuan Yang**, Honglin He, Yi Zhang, Shuo Feng, Henry X. Liu, "Adaptive Testing for Connected and Automated Vehicles with Sparse Control Variates in Overtaking Scenarios", IEEE International Intelligent Transportation Systems Conference (ITSC), 2022. [pdf]
++ Ye Tian, Huaxin Pei, **Jingxuan Yang**, Jianming Hu, Yi Zhang, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", 
 IEEE International Intelligent Transportation Systems Conference (ITSC), pp. 285-291, 2021, doi: 10.1109/ITSC48978.2021.9565069. [[pdf](https://www.jingxuanyang.com/file_upload/An_Improved_Model_of_Driving_Risk_Field_for_Connected_and_Automated_Vehicles.pdf)]
-+ 
 
 ## 发明专利
 
-+ 张毅、杨敬轩、何蜀燕、张佐、张磊、叶德建，一种面向单诊室的医院就诊顺序优化方法及装置，已受理，申请号：CN202111026993.6
-+ 张毅、葛经纬、杨敬轩、晏松、胡坚明，一种车路协同环境下车辆动态可信关系建立方法及装置，已受理，申请号：CN202111188778.6
-+ 张毅、田野、裴华鑫、李力、杨敬轩，一种确定车路协同环境下行车风险场的方法和装置，已受理，申请号：CN202111056727.8
++ 张毅、**杨敬轩**、何蜀燕、张佐、张磊、叶德建，一种面向单诊室的医院就诊顺序优化方法及装置，已受理，申请号：CN202111026993.6
++ 张毅、葛经纬、**杨敬轩**、晏松、胡坚明，一种车路协同环境下车辆动态可信关系建立方法及装置，已受理，申请号：CN202111188778.6
++ 张毅、田野、裴华鑫、李力、**杨敬轩**，一种确定车路协同环境下行车风险场的方法和装置，已受理，申请号：CN202111056727.8
 
 ## 软件著作权
 
-+ 杨敬轩，B样条曲线MATLAB-GUI程序系统V1.0，中国，登记号：2019SR0804060. [[pdf](https://www.jingxuanyang.com/file_upload/2019SR-BSpline.pdf)]
-+ 杨敬轩、张毅、裴欣，驾驶安全风险场仿真系统V1.0，中国，登记号：2022SR0269942. [[pdf](https://www.jingxuanyang.com/file_upload/2022SR-DSF.pdf)]
++ **杨敬轩**，B样条曲线MATLAB-GUI程序系统V1.0，中国，登记号：2019SR0804060. [[pdf](https://www.jingxuanyang.com/file_upload/2019SR-BSpline.pdf)]
++ **杨敬轩**、张毅、裴欣，驾驶安全风险场仿真系统V1.0，中国，登记号：2022SR0269942. [[pdf](https://www.jingxuanyang.com/file_upload/2022SR-DSF.pdf)]
 
 ## Comments
 
