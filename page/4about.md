@@ -73,6 +73,7 @@ type: page
 * 博客园：[九一居士](https://www.cnblogs.com/yangjingxuan/)
 * 简书：[九一居士](https://www.jianshu.com/u/268643305b4e)
 * 新浪：[九一居士](http://blog.sina.com.cn/jxyangsgr)
+* 科学网：[杨敬轩](https://blog.sciencenet.cn/u/jxyang)
 
 ## 学术链接
 
