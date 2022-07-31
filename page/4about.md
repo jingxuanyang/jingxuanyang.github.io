@@ -60,6 +60,7 @@ type: page
 * 2021.12 自动化系研究生课优秀助教
 * 2021.12 [郑维敏奖学金（一等）](http://www.rccm.tsinghua.edu.cn/info/1013/1816.htm)[[pdf](https://www.jingxuanyang.com/file_upload/2022-WeiminZhengSchalarship.pdf)]
 * 2022.01 系统工程研究所实验室贡献奖
+* 2022.07 自动化系优秀共产党员
 
 ## 联系我
 
