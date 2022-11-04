@@ -28,6 +28,14 @@ type: page
 + Ye Tian, Huaxin Pei, **Jingxuan Yang**, Jianming Hu, Yi Zhang, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", 
 IEEE International Intelligent Transportation Systems Conference (ITSC), pp. 285-291, 2021, doi: [10.1109/ITSC48978.2021.9565069](https://www.doi.org/10.1109/ITSC48978.2021.9565069). [[pdf](https://www.jingxuanyang.com/file_upload/improved_drf_itsc21.pdf)]
 
+## 期刊审稿
+
+* SAE International Journal of Electrified Vehicles ([JEV](https://www.sae.org/publications/collections/content/E-JOURNAL-14))
+
+## 会议审稿
+
+* 23rd COTA International Conference of Transportation Professionals ([CICTP 2023](https://cota-cictp2023.bjut.edu.cn/CICTP2023.html))
+
 ## 发明专利
 
 + 张毅、**杨敬轩**、何蜀燕、张佐、张磊、叶德建，一种面向单诊室的医院就诊顺序优化方法及装置，已受理，申请号：CN202111026993.6
