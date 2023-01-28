@@ -42,7 +42,7 @@ IEEE International Intelligent Transportation Systems Conference (ITSC), pp. 285
 
 + 张毅、**杨敬轩**、何蜀燕、张佐、张磊、叶德建，一种面向单诊室的医院就诊顺序优化方法及装置，已受理，申请号：CN202111026993.6 [[pdf](https://www.jingxuanyang.com/file_upload/CN202111026993.pdf)]
 + 张毅、葛经纬、**杨敬轩**、晏松、胡坚明，一种车路协同环境下车辆动态可信关系建立方法及装置，已受理，申请号：CN202111188778.6 [[pdf](https://www.jingxuanyang.com/file_upload/CN202111188778.pdf)]
-+ 张毅、田野、裴华鑫、李力、**杨敬轩**，一种确定车路协同环境下行车风险场的方法和装置，已受理，申请号：CN202111056727.8 [[pdf](https://www.jingxuanyang.com/file_upload/CN202111056727.pdf)]
++ 张毅、田野、裴华鑫、李力、**杨敬轩**，一种确定车路协同环境下行车风险场的方法和装置，已授权，专利号：ZL202111056727.8 [[pdf](https://www.jingxuanyang.com/file_upload/CN202111056727.pdf)]
 
 ## 软件著作权
 
