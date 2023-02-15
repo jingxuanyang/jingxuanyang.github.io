@@ -81,6 +81,7 @@ type: page
 ## 学术链接
 
 * ORCID: [Jingxuan Yang](https://orcid.org/0000-0001-9798-7347)
+* Scopus: [Jingxuan Yang](https://www.scopus.com/authid/detail.uri?authorId=57321781900)
 * ResearchGate: [Jingxuan Yang](https://www.researchgate.net/profile/Jingxuan-Yang-7)
 * Google Scholar: [Jingxuan Yang](https://scholar.google.com/citations?user=I5BLLKQAAAAJ)
 * Semantic Scholar: [Jingxuan Yang](https://www.semanticscholar.org/author/Jingxuan-Yang/2134844643)
