@@ -49,9 +49,9 @@ IEEE International Intelligent Transportation Systems Conference (ITSC), pp. 285
 
 ## 软件著作权
 
-+ 
 + **杨敬轩**，B样条曲线MATLAB-GUI程序系统V1.0，中国，登记号：2019SR0804060. [[pdf](https://www.jingxuanyang.com/file_upload/2019SR-BSpline.pdf)]
 + **杨敬轩**、张毅、裴欣，驾驶安全风险场仿真系统V1.0，中国，登记号：2022SR0269942. [[pdf](https://www.jingxuanyang.com/file_upload/2022SR-DSF.pdf)]
++ 
 
 ## 科技报告
 
