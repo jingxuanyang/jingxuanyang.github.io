@@ -17,7 +17,7 @@ type: page
 
 座右铭：为天地立心，为生民立命，为往圣继绝学，为万世开太平！
 
-最近更新：2023年3月
+最近更新：2023年4月
 
 ### 教育经历
 * 2020.09- present 博士在读：[清华大学](https://www.tsinghua.edu.cn/)，[自动化系](https://www.au.tsinghua.edu.cn/index.htm)，[系统工程研究所](https://www.au.tsinghua.edu.cn/jgsz/yjs.htm)，智能交通实验室，专业：[控制科学与工程](https://www.au.tsinghua.edu.cn/info/1033/1035.htm)，GPA：[4.0/4.0](http://www.jingxuanyang.com/file_upload/transcript.pdf)，排名：[1/158](http://www.jingxuanyang.com/file_upload/ranking-certification.pdf)，导师：[张毅教授](https://www.au.tsinghua.edu.cn/info/1110/1574.htm)
