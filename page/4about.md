@@ -91,6 +91,7 @@ type: page
 * Semantic Scholar: [Jingxuan Yang](https://www.semanticscholar.org/author/Jingxuan-Yang/2134844643)
 * OpenReview: [Jingxuan Yang](https://openreview.net/profile?id=~Jingxuan_Yang2)
 * DBLP: [Jingxuan Yang](https://dblp.org/pid/215/7940.html)
+* 百度学术：[杨敬轩](https://xueshu.baidu.com/scholarID/CN-BPKLDKXK)
 
 ## 关于本站
 
