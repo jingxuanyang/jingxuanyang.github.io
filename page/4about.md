@@ -26,7 +26,7 @@ type: page
 * 2017.09-2018.01 交换：[新竹清华大学](https://www.nthu.edu.tw/)，[电机工程学系](http://web.ee.nthu.edu.tw/)，考试课成绩均为A+，GPA：[4.28/4.30](http://www.jingxuanyang.com/file_upload/transcript-nthu.pdf)
 * 2016.09-2020.06 本科：[哈尔滨工业大学（深圳）](https://www.hitsz.edu.cn/index.html)，[机电工程与自动化学院](http://smea.hitsz.edu.cn/)，专业：[机械设计制造及其自动化](http://due.hitsz.edu.cn/info/1453/3792.htm)，平均学分绩：[94.65/100](http://www.jingxuanyang.com/file_upload/ranking-certification-bachelor.pdf)，推免综合考评成绩：99.65/105，均位列全系：[1/68](http://www.jingxuanyang.com/file_upload/ranking-certification-bachelor.pdf)
 * 2013.09-2016.06 高中：[河北省遵化市第一中学](https://baike.baidu.com/item/%E9%81%B5%E5%8C%96%E5%B8%82%E7%AC%AC%E4%B8%80%E4%B8%AD%E5%AD%A6)，高考664分，全校第2名、[河北省第2691名](http://file.hebeea.edu.cn/files/2016/06/20160623095712856.pdf)
-* 2010.09-2013.06 初中：[遵化市东旧寨镇中学](https://baike.baidu.com/item/%E9%81%B5%E5%8C%96%E5%B8%82%E4%B8%9C%E6%97%A7%E5%AF%A8%E4%B8%AD%E5%AD%A6/4754334?fr=aladdin)
+* 2010.09-2013.06 初中：[遵化市东旧寨镇中学](https://baike.baidu.com/item/%E9%81%B5%E5%8C%96%E5%B8%82%E4%B8%9C%E6%97%A7%E5%AF%A8%E4%B8%AD%E5%AD%A6/4754334?fr=aladdin)，中考裸分567分、总分636分，全校第1名、遵化市第2名
 
 ### 奖励荣誉
 * 2011.03 唐山市三好学生
