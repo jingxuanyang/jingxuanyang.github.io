@@ -66,7 +66,7 @@ type: page
 * 2022.10 清华之友-九坤奖学金（二等）
 * 2022.12 自动化系研究生课优秀助教
 * 2023.01 系统工程研究所科研贡献奖
-* 2023.06 自动化系优秀共产党员[[pdf](https://www.jingxuanyang.com/file_upload/202306-Outstanding_Member_CPC.pdf)]
+* 2023.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202306-Outstanding_Member_CPC.pdf)]
 
 ## 联系我
 
