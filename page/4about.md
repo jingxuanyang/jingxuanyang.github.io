@@ -58,12 +58,12 @@ type: page
 * 2019.10 全国大学生数学竞赛黑龙江赛区二等奖
 * 2020.06 哈尔滨工业大学优秀毕业生
 * 2020.07 校优秀本科毕业设计（论文）
-* 2021.12 清华之友-海宁英才奖学金 [[pdf](https://www.jingxuanyang.com/file_upload/202112-ComprehensiveExcellentScholarship.pdf)]
+* 2021.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202112-ComprehensiveExcellentScholarship.pdf)]
 * 2021.12 自动化系研究生课优秀助教
 * 2021.12 清华大学-郑维敏奖学金（一等）[[web](http://www.rccm.tsinghua.edu.cn/info/1013/1816.htm)] [[pdf](https://www.jingxuanyang.com/file_upload/2022-WeiminZhengSchalarship.pdf)]
 * 2022.01 系统工程研究所实验室贡献奖
 * 2022.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202206-OutstandingMemberCPC.pdf)]
-* 2022.12 清华之友-九坤奖学金（二等） [[pdf](https://www.jingxuanyang.com/file_upload/202212-ComprehensiveExcellentScholarship.pdf)]
+* 2022.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202212-ComprehensiveExcellentScholarship.pdf)]
 * 2022.12 自动化系研究生课优秀助教
 * 2023.01 系统工程研究所科研贡献奖
 * 2023.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202306-OutstandingMemberCPC.pdf)]
