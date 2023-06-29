@@ -20,15 +20,15 @@ type: page
 
 ## 期刊论文
 
-+ **Jingxuan Yang**, Haowei Sun, Honglin He, Yi Zhang, Henry X. Liu, Shuo Feng, "Adaptive Safety Evaluation for Connected and Automated Vehicles with Sparse Control Variates", arXiv eprint, 2022. [[arXiv](http://arxiv.org/abs/2212.00517)] [[pdf](https://www.jingxuanyang.com/file_upload/scv_arxiv.pdf)]
-+ 裴华鑫，**杨敬轩**，胡坚明，张毅. 大规模路网中分布式车辆群体协同决策方法[J]. 交通运输工程学报，2022，22(3)：174-183. doi: [10.19818/j.cnki.1671-1637.2022.03.014](https://www.doi.org/10.19818/j.cnki.1671-1637.2022.03.014). [[web](http://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2022.03.014)] [[pdf](https://www.jingxuanyang.com/file_upload/DCDM-JTTE-2022.pdf)]
++ **Jingxuan Yang**, Haowei Sun, Honglin He, Yi Zhang, Henry X. Liu, Shuo Feng*, "Adaptive Safety Evaluation for Connected and Automated Vehicles with Sparse Control Variates", arXiv eprint, 2022. [[arXiv](http://arxiv.org/abs/2212.00517)] [[pdf](https://www.jingxuanyang.com/file_upload/scv_arxiv.pdf)]
++ 裴华鑫，**杨敬轩**，胡坚明，张毅*. 大规模路网中分布式车辆群体协同决策方法[J]. 交通运输工程学报，2022，22(3)：174-183. doi: [10.19818/j.cnki.1671-1637.2022.03.014](https://www.doi.org/10.19818/j.cnki.1671-1637.2022.03.014). [[web](http://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2022.03.014)] [[pdf](https://www.jingxuanyang.com/file_upload/DCDM-JTTE-2022.pdf)]
 + 
 
 
 ## 会议论文
 
-+ **Jingxuan Yang**, Honglin He, Yi Zhang, Shuo Feng, Henry X. Liu, "Adaptive Testing for Connected and Automated Vehicles with Sparse Control Variates in Overtaking Scenarios", IEEE International Intelligent Transportation Systems Conference (ITSC), 2022, doi: [10.1109/ITSC55140.2022.9922583](https://www.doi.org/10.1109/ITSC55140.2022.9922583). [[arXiv](http://arxiv.org/abs/2207.09259)] [[pdf](https://www.jingxuanyang.com/file_upload/atscv_itsc22_arxiv.pdf)] [[ppt](https://www.jingxuanyang.com/file_upload/atscv_pre_itsc22.pdf)] [[video](https://www.bilibili.com/video/BV1Da411S7JH)] *(Note that some symbols (e.g., $\in$ and $\vert$) in the IEEE version pdf are not displayed, please use the pdf here or the pdf on arXiv or ResearchGate.)*
-+ Ye Tian, Huaxin Pei, **Jingxuan Yang**, Jianming Hu, Yi Zhang, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", 
++ **Jingxuan Yang**, Honglin He, Yi Zhang, Shuo Feng*, Henry X. Liu, "Adaptive Testing for Connected and Automated Vehicles with Sparse Control Variates in Overtaking Scenarios", IEEE International Intelligent Transportation Systems Conference (ITSC), 2022, doi: [10.1109/ITSC55140.2022.9922583](https://www.doi.org/10.1109/ITSC55140.2022.9922583). [[arXiv](http://arxiv.org/abs/2207.09259)] [[pdf](https://www.jingxuanyang.com/file_upload/atscv_itsc22_arxiv.pdf)] [[ppt](https://www.jingxuanyang.com/file_upload/atscv_pre_itsc22.pdf)] [[video](https://www.bilibili.com/video/BV1Da411S7JH)] *(Note that some symbols (e.g., $\in$ and $\vert$) in the IEEE version pdf are not displayed, please use the pdf here or the pdf on arXiv or ResearchGate.)*
++ Ye Tian, Huaxin Pei, **Jingxuan Yang**, Jianming Hu, Yi Zhang*, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", 
 IEEE International Intelligent Transportation Systems Conference (ITSC), pp. 285-291, 2021, doi: [10.1109/ITSC48978.2021.9565069](https://www.doi.org/10.1109/ITSC48978.2021.9565069). [[pdf](https://www.jingxuanyang.com/file_upload/improved_drf_itsc21.pdf)]
 
 ## 期刊审稿
