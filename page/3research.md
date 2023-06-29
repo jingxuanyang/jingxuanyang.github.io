@@ -15,7 +15,7 @@ type: page
   + 课题一“**群体协同控制系统设计与信息可信交互机制研究**”
 + [实验室](https://mp.weixin.qq.com/s/2yS37X70_HctyGfzVUwsNg)项目“**智能技术试验验证与评估**”，2021.11-2024.10
 + [民航空管](http://www.atmb.net.cn/)科技项目“**民航空管数据安全共享模型研究**”，2021.01-2023.07
-+ [清华-清鹤联合研究中心](https://www.tsinghua.edu.cn/kxyj/kyjg/lhgjjg.htm)横向课题“**医疗资源的智能优化调度系统研究**”，2020.09-2023.09
++ [清华-清鹤联合研究中心](https://www.tsinghua.edu.cn/kxyj/kyjg/lhgjjg.htm)横向课题“**医疗资源智能优化调度系统研究**”，2020.09-2023.09
 <!-- + [清华-博世联合研究中心](https://www.tsinghua.edu.cn/info/1178/30596.htm) -->
 
 ## 期刊论文
