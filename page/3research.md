@@ -13,7 +13,7 @@ type: page
 
 + [国家重点研发计划](https://baike.baidu.com/item/%E5%9B%BD%E5%AE%B6%E9%87%8D%E7%82%B9%E7%A0%94%E5%8F%91%E8%AE%A1%E5%88%92/19395314?fr=aladdin)重点专项“综合交通运输与智能交通”项目“[车路协同环境下车辆群体智能控制与测试验证](https://www.jingxuanyang.com/file_upload/综合交通运输与智能交通重点专项2018年度项目申报指南.pdf)”，2019.01-2022.06
   + 课题一“**群体协同控制系统设计与信息可信交互机制研究**”
-+ [实验室](https://mp.weixin.qq.com/s/2yS37X70_HctyGfzVUwsNg)项目“**智能系统与技术智能性测试评估**”，2021.09-2024.10
++ [实验室](https://mp.weixin.qq.com/s/2yS37X70_HctyGfzVUwsNg)项目“**智能系统与技术智能性测试评估方法研究**”，2021.09-2024.10
 + [民航空管](http://www.atmb.net.cn/)科技项目“**民航空管数据安全共享模型研究**”，2021.01-2023.09
 + [清华-清鹤联合研究中心](https://www.tsinghua.edu.cn/kxyj/kyjg/lhgjjg.htm)横向课题“**医疗资源智能优化调度系统研究**”，2020.09-2023.09
 <!-- + [清华-博世联合研究中心](https://www.tsinghua.edu.cn/info/1178/30596.htm) -->
