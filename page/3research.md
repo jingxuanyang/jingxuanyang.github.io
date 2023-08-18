@@ -28,8 +28,8 @@ type: page
 
 ## 会议论文
 
-+ **Jingxuan Yang**, Honglin He, Yi Zhang, Shuo Feng\*, Henry X. Liu, "Adaptive Testing for Connected and Automated Vehicles with Sparse Control Variates in Overtaking Scenarios", IEEE International Intelligent Transportation Systems Conference (ITSC), 2022, doi: [10.1109/ITSC55140.2022.9922583](https://www.doi.org/10.1109/ITSC55140.2022.9922583). [[arXiv](http://arxiv.org/abs/2207.09259)] [[pdf](https://www.jingxuanyang.com/file_upload/atscv_itsc22_arxiv.pdf)] [[ppt](https://www.jingxuanyang.com/file_upload/atscv_pre_itsc22.pdf)] [[video](https://www.bilibili.com/video/BV1Da411S7JH)]
-+ Ye Tian, Huaxin Pei, **Jingxuan Yang**, Jianming Hu, Yi Zhang\*, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", IEEE International Intelligent Transportation Systems Conference (ITSC), pp. 285-291, 2021, doi: [10.1109/ITSC48978.2021.9565069](https://www.doi.org/10.1109/ITSC48978.2021.9565069). [[pdf](https://www.jingxuanyang.com/file_upload/improved_drf_itsc21.pdf)]
++ **Jingxuan Yang**, Honglin He, Yi Zhang, Shuo Feng\*, Henry X. Liu, "Adaptive Testing for Connected and Automated Vehicles with Sparse Control Variates in Overtaking Scenarios", IEEE International Intelligent Transportation Systems Conference (ITSC), 2022, pp. 2791-2797, doi: [10.1109/ITSC55140.2022.9922583](https://www.doi.org/10.1109/ITSC55140.2022.9922583). [[arXiv](http://arxiv.org/abs/2207.09259)] [[pdf](https://www.jingxuanyang.com/file_upload/atscv_itsc22_arxiv.pdf)] [[ppt](https://www.jingxuanyang.com/file_upload/atscv_pre_itsc22.pdf)] [[video](https://www.bilibili.com/video/BV1Da411S7JH)]
++ Ye Tian, Huaxin Pei, **Jingxuan Yang**, Jianming Hu, Yi Zhang\*, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", IEEE International Intelligent Transportation Systems Conference (ITSC), 2021, pp. 285-291, doi: [10.1109/ITSC48978.2021.9565069](https://www.doi.org/10.1109/ITSC48978.2021.9565069). [[pdf](https://www.jingxuanyang.com/file_upload/improved_drf_itsc21.pdf)]
 
 ## 期刊审稿
 
