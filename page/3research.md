@@ -38,7 +38,8 @@ type: page
 
 ## 会议审稿
 
-* 23rd COTA International Conference of Transportation Professionals ([CICTP 2023](https://cota-cictp2023.bjut.edu.cn/CICTP2023.html))
+* The 23rd COTA International Conference of Transportation Professionals ([CICTP 2023](https://cota-cictp2023.bjut.edu.cn/CICTP2023.html))
+* The 24th COTA International Conference of Transportation Professionals ([CICTP 2024](https://utl.sztu.edu.cn/cictp2024/#/))
 
 ## 发明专利
 
