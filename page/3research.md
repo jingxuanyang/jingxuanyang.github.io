@@ -24,8 +24,6 @@ type: page
 
 + **Jingxuan Yang**, Haowei Sun, Honglin He, Yi Zhang, Henry X. Liu, Shuo Feng\*, "Adaptive Safety Evaluation for Connected and Automated Vehicles with Sparse Control Variates", IEEE Transactions on Intelligent Transportation Systems, 2023, pp. 1-13, doi: [10.1109/TITS.2023.3317078](https://www.doi.org/10.1109/TITS.2023.3317078). [[arXiv](http://arxiv.org/abs/2212.00517)] [[pdf](https://www.jingxuanyang.com/file_upload/SCV_TITS.pdf)]
 + 裴华鑫，**杨敬轩**，胡坚明，张毅\*. 大规模路网中分布式车辆群体协同决策方法[J]. 交通运输工程学报，2022，22(3)：174-183. doi: [10.19818/j.cnki.1671-1637.2022.03.014](https://www.doi.org/10.19818/j.cnki.1671-1637.2022.03.014). [[web](http://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2022.03.014)] [[pdf](https://www.jingxuanyang.com/file_upload/DCDM-JTTE-2022.pdf)]
-+ 
-
 
 ## 会议论文
 
