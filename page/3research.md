@@ -34,6 +34,7 @@ type: page
 
 ## 期刊审稿
 
+* IEEE Transactions on Intelligent Vehicles ([T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857))
 * SAE International Journal of Electrified Vehicles ([JEV](https://www.sae.org/publications/collections/content/E-JOURNAL-14))
 
 ## 会议审稿
