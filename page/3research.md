@@ -30,7 +30,7 @@ type: page
 ## 会议论文
 
 + **Jingxuan Yang**, Honglin He, Yi Zhang, Shuo Feng\*, Henry X. Liu, "Adaptive Testing for Connected and Automated Vehicles with Sparse Control Variates in Overtaking Scenarios", IEEE International Conference on Intelligent Transportation Systems (ITSC), 2022, pp. 2791-2797, doi: [10.1109/ITSC55140.2022.9922583](https://www.doi.org/10.1109/ITSC55140.2022.9922583). [[arXiv](http://arxiv.org/abs/2207.09259)] [[pdf](https://www.jingxuanyang.com/file_upload/SCV_ITSC.pdf)] [[ppt](https://www.jingxuanyang.com/file_upload/atscv_pre_itsc22.pdf)] [[video](https://www.bilibili.com/video/BV1Da411S7JH)]
-+ Shu Li, **Jingxuan Yang**, Honglin He, Yi Zhang, Jianming Hu, Shuo Feng\*, "Few-Shot Scenario Testing for Autonomous Vehicles Based on Neighborhood Coverage and Similarity", IEEE Intelligent Vehicles Symposium (IV), 2024, under review. [[pdf](https://arxiv.org/pdf/2402.01795)]
++ Shu Li, **Jingxuan Yang**, Honglin He, Yi Zhang, Jianming Hu, Shuo Feng\*, "Few-Shot Scenario Testing for Autonomous Vehicles Based on Neighborhood Coverage and Similarity", IEEE Intelligent Vehicles Symposium (IV), 2024, under review. [[arXiv](https://arxiv.org/abs/2402.01795)]
 + Ye Tian, Huaxin Pei, **Jingxuan Yang**, Jianming Hu, Yi Zhang\*, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", IEEE International Conference on Intelligent Transportation Systems (ITSC), 2021, pp. 285-291, doi: [10.1109/ITSC48978.2021.9565069](https://www.doi.org/10.1109/ITSC48978.2021.9565069). [[pdf](https://www.jingxuanyang.com/file_upload/improved_drf_itsc21.pdf)]
 
 ## 期刊审稿
