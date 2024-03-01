@@ -24,8 +24,8 @@ type: page
 
 ## 期刊论文
 
-+ **Jingxuan Yang**, Haowei Sun, Honglin He, Yi Zhang, Henry X. Liu, Shuo Feng\*, "Adaptive Safety Evaluation for Connected and Automated Vehicles with Sparse Control Variates", IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 2, pp. 1761-1773, 2023, doi: [10.1109/TITS.2023.3317078](https://www.doi.org/10.1109/TITS.2023.3317078). [[arXiv](http://arxiv.org/abs/2212.00517)] [[pdf](https://www.jingxuanyang.com/file_upload/SCV_TITS.pdf)]
 + **Jingxuan Yang**, Ruoxuan Bai, Haoyuan Ji, Yi Zhang, Jianming Hu, Shuo Feng\*, "Adaptive Testing Environment Generation for Connected and Automated Vehicles with Dense Reinforcement Learning", IEEE Transactions on Intelligent Transportation Systems, under review, 2024. [[arXiv](https://arxiv.org/abs/2402.19275)]
++ **Jingxuan Yang**, Haowei Sun, Honglin He, Yi Zhang, Henry X. Liu, Shuo Feng\*, "Adaptive Safety Evaluation for Connected and Automated Vehicles with Sparse Control Variates", IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 2, pp. 1761-1773, 2023, doi: [10.1109/TITS.2023.3317078](https://www.doi.org/10.1109/TITS.2023.3317078). [[arXiv](http://arxiv.org/abs/2212.00517)] [[pdf](https://www.jingxuanyang.com/file_upload/SCV_TITS.pdf)]
 + 裴华鑫，**杨敬轩**，胡坚明，张毅\*. 大规模路网中分布式车辆群体协同决策方法[J]. 交通运输工程学报，2022，22(3)：174-183. doi: [10.19818/j.cnki.1671-1637.2022.03.014](https://www.doi.org/10.19818/j.cnki.1671-1637.2022.03.014). [[web](http://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2022.03.014)] [[pdf](https://www.jingxuanyang.com/file_upload/DCDM-JTTE-2022.pdf)]
 
 ## 会议论文
