@@ -35,6 +35,7 @@ type: page
 + Shu Li, **Jingxuan Yang**, Honglin He, Yi Zhang, Jianming Hu, Shuo Feng\*, "Few-Shot Scenario Testing for Autonomous Vehicles Based on Neighborhood Coverage and Similarity", IEEE Intelligent Vehicles Symposium (IV), 2024. [[arXiv](https://arxiv.org/abs/2402.01795)]
 + Ruoxuan Bai, **Jingxuan Yang**, Weiduo Gong, Yi Zhang, Qiujing Lu, Shuo Feng\*, "Accurately Predicting Probabilities of Safety-Critical Rare Events for Intelligent Systems", submitted to IEEE International Conference on Automation Science and Engineering (CASE), 2024, under review. [[arXiv](https://arxiv.org/abs/2403.13869)]
 + Ye Tian, Huaxin Pei, **Jingxuan Yang**, Jianming Hu, Yi Zhang\*, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", IEEE International Conference on Intelligent Transportation Systems (ITSC), 2021, pp. 285-291, doi: [10.1109/ITSC48978.2021.9565069](https://www.doi.org/10.1109/ITSC48978.2021.9565069). [[pdf](https://www.jingxuanyang.com/file_upload/improved_drf_itsc21.pdf)]
++ Honglin He, Shu Li, **Jingxuan Yang**, Linxuan He, Qiujing Lu, Yi Zhang, Shuo Feng\*, "KnowMoformer: Knowledge-Conditioned Motion Transformer for Controllable Traffic Scenario Simulation", submitted to IEEE/CVF Conference on Computer Vision and Pattern Recognition, 2024, under review.
 
 ## 期刊审稿
 
