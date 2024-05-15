@@ -47,6 +47,7 @@ type: page
 
 * The 23rd COTA International Conference of Transportation Professionals ([CICTP 2023](https://cota-cictp2023.bjut.edu.cn/CICTP2023.html))
 * The 24th COTA International Conference of Transportation Professionals ([CICTP 2024](https://utl.sztu.edu.cn/cictp2024/#/))
+* The 27th IEEE International Conference on Intelligent Transportation Systems ([ITSC 2024](https://ieee-itsc.org/2024/))
 
 ## 发明专利
 
