@@ -98,6 +98,7 @@ type: page
 * ResearchGate: [Jingxuan Yang](https://www.researchgate.net/profile/Jingxuan-Yang-7)
 * Google Scholar: [Jingxuan Yang](https://scholar.google.com/citations?user=I5BLLKQAAAAJ)
 * Web of Science: [Jingxuan Yang](https://www.webofscience.com/wos/author/record/ADH-1678-2022)
+* SSRN: [Jingxuan Yang](https://ssrn.com/author=7123214)
 * Semantic Scholar: [Jingxuan Yang](https://www.semanticscholar.org/author/Jingxuan-Yang/2134844643)
 * OpenReview: [Jingxuan Yang](https://openreview.net/profile?id=~Jingxuan_Yang2)
 * DBLP: [Jingxuan Yang](https://dblp.org/pid/215/7940.html)
