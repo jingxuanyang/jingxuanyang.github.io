@@ -38,7 +38,7 @@ type: page
 + 裴华鑫，**杨敬轩**，胡坚明，张毅\*. 大规模路网中分布式车辆群体协同决策方法[J]. 交通运输工程学报，2022，22(3)：174-183. doi: [10.19818/j.cnki.1671-1637.2022.03.014](https://www.doi.org/10.19818/j.cnki.1671-1637.2022.03.014). [[web](http://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2022.03.014)] [[pdf](https://www.jingxuanyang.com/file_upload/DCDM-JTTE-2022.pdf)]
 + 陈宝刚，**杨敬轩**，张毅\*，晏松，何泓霖. 多源异构空管运行数据安全自动分级模型[J]. 清华大学学报（自然科学版），2024，64(9)：1565-1574. doi: [10.16511/j.cnki.qhdxxb.2024.22.036](https://www.doi.org/10.16511/j.cnki.qhdxxb.2024.22.036). [[web](http://jst.tsinghuajournals.com/CN/Y2024/V64/I9/1565)] [[pdf](https://www.jingxuanyang.com/file_upload/Auto-Classification-2024.pdf)]
 + Shu Li, Honglin He, **Jingxuan Yang**, Jianming Hu, Yi Zhang, Shuo Feng\*, "Few-Shot Testing of Autonomous Vehicles with Scenario Similarity Learning", submitted to IEEE Transactions on Intelligent Transportation Systems, under review, 29-Aug-2024. [[arXiv](https://arxiv.org/abs/2409.14369)]
-+ Weichao Xu, Huaxin Pei\*, **Jingxuan Yang**, Yuchen Shi, Yi Zhang, Qianchuan Zhao, "Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach", 2024. [[arXiv](https://arxiv.org/abs/2412.06684)]
++ Weichao Xu, Huaxin Pei\*, **Jingxuan Yang**, Yuchen Shi, Yi Zhang, Qianchuan Zhao, "Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach", submitted to IEEE Transactions on Software Engineering, under review, 12-Jan-2025. [[arXiv](https://arxiv.org/abs/2412.06684)]
 
 ## 会议论文
 
