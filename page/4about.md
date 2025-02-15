@@ -80,7 +80,7 @@ type: page
 
 ## 联系我
 
-* Email：[yangjx20@mails.tsinghua.edu.cn](mailto:yangjx20@mails.tsinghua.edu.cn)
+* Email：[yangjx20@mails.tsinghua.edu.cn](mailto:yangjx20@mails.tsinghua.edu.cn), [yangjingxuan@stu.hit.edu.cn](mailto:yangjingxuan@stu.hit.edu.cn)
 * GitHub：[jingxuanyang](https://github.com/jingxuanyang), [YangLaTeX](https://github.com/YangLaTeX)
 * Gitee：[jingxuanyang](https://gitee.com/jingxuanyang)
 * GitLab：[jingxuanyang](https://gitlab.com/jingxuanyang)
