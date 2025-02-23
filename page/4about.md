@@ -98,6 +98,7 @@ type: page
 * Google Scholar: [Jingxuan Yang](https://scholar.google.com/citations?user=I5BLLKQAAAAJ)
 * Web of Science: [Jingxuan Yang](https://www.webofscience.com/wos/author/record/ADH-1678-2022)
 * ResearchGate: [Jingxuan Yang](https://www.researchgate.net/profile/Jingxuan-Yang-7)
+* IEEE Author Details: [Jingxuan Yang](https://ieeexplore.ieee.org/author/37089004082)
 * Scopus: [Jingxuan Yang](https://www.scopus.com/authid/detail.uri?authorId=57321781900)
 * SSRN: [Jingxuan Yang](https://ssrn.com/author=7123214)
 * Semantic Scholar: [Jingxuan Yang](https://www.semanticscholar.org/author/Jingxuan-Yang/2134844643)
