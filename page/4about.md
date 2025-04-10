@@ -84,6 +84,7 @@ type: page
 * GitHub：[jingxuanyang](https://github.com/jingxuanyang), [YangLaTeX](https://github.com/YangLaTeX)
 * Gitee：[jingxuanyang](https://gitee.com/jingxuanyang)
 * GitLab：[jingxuanyang](https://gitlab.com/jingxuanyang)
+* Gravatar: [jingxuanyang](https://gravatar.com/sublimepleasant8d352a2516)
 * CSDN：[九一居士](https://me.csdn.net/csdn_jacksonyoung)
 * 知乎：[九一居士](https://www.zhihu.com/people/jingxuanyang)
 * 微信公众号：[九一居士](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NzMzOTE5OQ==&hid=1&sn=175e47d89ad31c72d2a762f7c50c0ac2&scene=18#wechat_redirect)
