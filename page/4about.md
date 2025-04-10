@@ -102,6 +102,7 @@ type: page
 * IEEE Author Details: [Jingxuan Yang](https://ieeexplore.ieee.org/author/37089004082)
 * Scopus: [Jingxuan Yang](https://www.scopus.com/authid/detail.uri?authorId=57321781900)
 * SSRN: [Jingxuan Yang](https://ssrn.com/author=7123214)
+* Docker Hub: [Jingxuan Yang](https://hub.docker.com/u/jingxuanyang)
 * Semantic Scholar: [Jingxuan Yang](https://www.semanticscholar.org/author/Jingxuan-Yang/2134844643)
 * OpenReview: [Jingxuan Yang](https://openreview.net/profile?id=~Jingxuan_Yang2)
 * DBLP: [Jingxuan Yang](https://dblp.org/pid/215/7940.html)
