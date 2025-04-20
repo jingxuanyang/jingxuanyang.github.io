@@ -81,18 +81,6 @@ type: page
 ## 联系我
 
 * Email：[yangjx20@mails.tsinghua.edu.cn](mailto:yangjx20@mails.tsinghua.edu.cn)
-* GitHub：[jingxuanyang](https://github.com/jingxuanyang), [YangLaTeX](https://github.com/YangLaTeX)
-* Gitee：[jingxuanyang](https://gitee.com/jingxuanyang)
-* GitLab：[jingxuanyang](https://gitlab.com/jingxuanyang)
-* Gravatar: [jingxuanyang](https://gravatar.com/sublimepleasant8d352a2516)
-* Docker Hub: [jingxuanyang](https://hub.docker.com/u/jingxuanyang)
-* CSDN：[九一居士](https://me.csdn.net/csdn_jacksonyoung)
-* 知乎：[九一居士](https://www.zhihu.com/people/jingxuanyang)
-* 微信公众号：[九一居士](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NzMzOTE5OQ==&hid=1&sn=175e47d89ad31c72d2a762f7c50c0ac2&scene=18#wechat_redirect)
-* 博客园：[九一居士](https://www.cnblogs.com/yangjingxuan/)
-* 简书：[九一居士](https://www.jianshu.com/u/268643305b4e)
-* 新浪：[九一居士](http://blog.sina.com.cn/jxyangsgr)
-* 科学网：[杨敬轩](https://blog.sciencenet.cn/u/jxyang)
 
 ## 学术链接
 
@@ -107,6 +95,21 @@ type: page
 * OpenReview: [Jingxuan Yang](https://openreview.net/profile?id=~Jingxuan_Yang2)
 * DBLP: [Jingxuan Yang](https://dblp.org/pid/215/7940.html)
 * 百度学术：[杨敬轩](https://xueshu.baidu.com/scholarID/CN-BPKLDKXK)
+
+## 其他链接
+
+* GitHub：[jingxuanyang](https://github.com/jingxuanyang), [YangLaTeX](https://github.com/YangLaTeX)
+* Gitee：[jingxuanyang](https://gitee.com/jingxuanyang)
+* GitLab：[jingxuanyang](https://gitlab.com/jingxuanyang)
+* Gravatar: [jingxuanyang](https://gravatar.com/sublimepleasant8d352a2516)
+* Docker Hub: [jingxuanyang](https://hub.docker.com/u/jingxuanyang)
+* CSDN：[九一居士](https://me.csdn.net/csdn_jacksonyoung)
+* 知乎：[九一居士](https://www.zhihu.com/people/jingxuanyang)
+* 微信公众号：[九一居士](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NzMzOTE5OQ==&hid=1&sn=175e47d89ad31c72d2a762f7c50c0ac2&scene=18#wechat_redirect)
+* 博客园：[九一居士](https://www.cnblogs.com/yangjingxuan/)
+* 简书：[九一居士](https://www.jianshu.com/u/268643305b4e)
+* 新浪：[九一居士](http://blog.sina.com.cn/jxyangsgr)
+* 科学网：[杨敬轩](https://blog.sciencenet.cn/u/jxyang)
 
 ## 关于本站
 
