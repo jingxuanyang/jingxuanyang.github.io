@@ -72,6 +72,7 @@ type: page
 
 ## 会议审稿
 
+* The 28th IEEE International Conference on Intelligent Transportation Systems ([ITSC 2025](https://ieee-itsc.org/2025/))
 * The 21st IEEE International Conference on Automation Science and Engineering ([CASE 2025](https://2025.ieeecase.org/))
 * The 18th IEEE International Conference on Vehicular Electronics and Safety ([ICVES 2024](https://ahduni.edu.in/academics/schools-centres/school-of-engineering-and-applied-science/events/18th-ieee-international-conference-on-vehicular-electronics-and-safety-2024/))
 * The 27th IEEE International Conference on Intelligent Transportation Systems ([ITSC 2024](https://ieee-itsc.org/2024/))
