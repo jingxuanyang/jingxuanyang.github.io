@@ -47,17 +47,22 @@ type: page
 
 ## 期刊论文
 
+### 英文论文
+
 + **Jingxuan Yang**, Zihang Wang, Daihan Wang, Yi Zhang, Qiujing Lu, Shuo Feng\*, "Adaptive Safety Performance Testing for Autonomous Vehicles with Adaptive Importance Sampling", Transportation Research Part C: Emerging Technologies, vol. 179, 2025, 105256, doi: [10.1016/j.trc.2025.105256](https://www.doi.org/10.1016/j.trc.2025.105256). [[free access before August 30, 2025](https://authors.elsevier.com/c/1lPqU,M0mRYznm)] [[SSRN](https://ssrn.com/abstract=4993532)] [[pdf](https://www.jingxuanyang.com/file_upload/ADRL_TRC.pdf)]
 + **Jingxuan Yang**, Ruoxuan Bai, Haoyuan Ji, Yi Zhang, Jianming Hu, Shuo Feng\*, "Adaptive Testing Environment Generation for Connected and Automated Vehicles with Dense Reinforcement Learning", IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 4, pp. 5135-5145, 2025, doi: [10.1109/TITS.2025.3535866](https://www.doi.org/10.1109/TITS.2025.3535866). [[arXiv](https://arxiv.org/abs/2402.19275)] [[pdf](https://www.jingxuanyang.com/file_upload/2025-DenseRL-TITS.pdf)]
 + **Jingxuan Yang**, Haowei Sun, Honglin He, Yi Zhang, Henry X. Liu, Shuo Feng\*, "Adaptive Safety Evaluation for Connected and Automated Vehicles with Sparse Control Variates", IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 2, pp. 1761-1773, 2023, doi: [10.1109/TITS.2023.3317078](https://www.doi.org/10.1109/TITS.2023.3317078). [[arXiv](http://arxiv.org/abs/2212.00517)] [[pdf](https://www.jingxuanyang.com/file_upload/SCV_TITS.pdf)]
 + Kun Ren, **Jingxuan Yang**, Qiujing Lu, Yi Zhang, Jianming Hu\*, Shuo Feng\*, "Intelligent Testing Environment Generation for Autonomous Vehicles with Implicit Distributions of Traffic Behaviors", Transportation Research Part C: Emerging Technologies, vol. 174, 2025, 105106, doi: [10.1016/j.trc.2025.105106](https://doi.org/10.1016/j.trc.2025.105106). [[SSRN](https://ssrn.com/abstract=4973349)] [[pdf](https://www.jingxuanyang.com/file_upload/IIS_TRC.pdf)]
 + Zewei Dong\*, **Jingxuan Yang**, Runze Yuan, Guangzhen Su, Hui Wang, Ming Lei, "A Novel Game-Theoretical Kendall Coefficient Weighting Approach for Autonomous Path Planning Systems Intelligence Evaluation", submitted to Expert Systems with Applications, under review, 9-Aug-2025.
-+ 宿广镇，**杨敬轩**，张毅，封硕\*. 面向稀疏度灾难的密集强化学习优势函数分析与具身应用[J]. 投稿至自动化学报，2025. (under review)
-+ 裴华鑫，**杨敬轩**，胡坚明，张毅\*. 大规模路网中分布式车辆群体协同决策方法[J]. 交通运输工程学报，2022，22(3)：174-183. doi: [10.19818/j.cnki.1671-1637.2022.03.014](https://www.doi.org/10.19818/j.cnki.1671-1637.2022.03.014). [[web](http://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2022.03.014)] [[pdf](https://www.jingxuanyang.com/file_upload/DCDM-JTTE-2022.pdf)]
-+ 陈宝刚，**杨敬轩**，张毅\*，晏松，何泓霖. 多源异构空管运行数据安全自动分级模型[J]. 清华大学学报（自然科学版），2024，64(9)：1565-1574. doi: [10.16511/j.cnki.qhdxxb.2024.22.036](https://www.doi.org/10.16511/j.cnki.qhdxxb.2024.22.036). [[web](http://jst.tsinghuajournals.com/CN/Y2024/V64/I9/1565)] [[pdf](https://www.jingxuanyang.com/file_upload/Auto-Classification-2024.pdf)]
 + Kun Ren, Yizhou Xu, **Jingxuan Yang**, Yi Zhang, Jianming Hu, Shuo Feng\*, "Intelligent Safety Testing of Autonomous Vehicles with Implicit Traffic Distributions by Dense Reinforcement Learning", submitted to IEEE Transactions on Intelligent Transportation Systems, under review, 16-Aug-2025.
 + Weichao Xu, Huaxin Pei\*, **Jingxuan Yang**, Yuchen Shi, Yi Zhang, Qianchuan Zhao, "Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach", submitted to IEEE Transactions on Software Engineering, under review, 14-Jan-2025. [[arXiv](https://arxiv.org/abs/2412.06684)]
 + Shu Li, Honglin He, **Jingxuan Yang**, Jianming Hu, Yi Zhang, Shuo Feng\*, "Few-Shot Testing of Autonomous Vehicles with Scenario Similarity Learning", submitted to IEEE Transactions on Intelligent Transportation Systems, under review, 29-Aug-2024. [[arXiv](https://arxiv.org/abs/2409.14369)]
+
+### 中文论文
+
++ 宿广镇，**杨敬轩**，张毅，封硕\*. 面向稀疏度灾难的密集强化学习优势函数分析与具身应用[J]. 投稿至自动化学报，2025. (under review)
++ 裴华鑫，**杨敬轩**，胡坚明，张毅\*. 大规模路网中分布式车辆群体协同决策方法[J]. 交通运输工程学报，2022，22(3)：174-183. doi: [10.19818/j.cnki.1671-1637.2022.03.014](https://www.doi.org/10.19818/j.cnki.1671-1637.2022.03.014). [[web](http://transport.chd.edu.cn/cn/article/doi/10.19818/j.cnki.1671-1637.2022.03.014)] [[pdf](https://www.jingxuanyang.com/file_upload/DCDM-JTTE-2022.pdf)]
++ 陈宝刚，**杨敬轩**，张毅\*，晏松，何泓霖. 多源异构空管运行数据安全自动分级模型[J]. 清华大学学报（自然科学版），2024，64(9)：1565-1574. doi: [10.16511/j.cnki.qhdxxb.2024.22.036](https://www.doi.org/10.16511/j.cnki.qhdxxb.2024.22.036). [[web](http://jst.tsinghuajournals.com/CN/Y2024/V64/I9/1565)] [[pdf](https://www.jingxuanyang.com/file_upload/Auto-Classification-2024.pdf)]
 
 ## 会议论文
 
@@ -126,6 +131,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
