@@ -54,7 +54,7 @@ type: page
 + **Jingxuan Yang**, Haowei Sun, Honglin He, Yi Zhang, Henry X. Liu, Shuo Feng\*, "Adaptive Safety Evaluation for Connected and Automated Vehicles with Sparse Control Variates", IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 2, pp. 1761-1773, 2023, doi: [10.1109/TITS.2023.3317078](https://www.doi.org/10.1109/TITS.2023.3317078). [[arXiv](http://arxiv.org/abs/2212.00517)] [[pdf](https://www.jingxuanyang.com/file_upload/SCV_TITS.pdf)]
 + Kun Ren, **Jingxuan Yang**, Qiujing Lu, Yi Zhang, Jianming Hu\*, Shuo Feng\*, "Intelligent Testing Environment Generation for Autonomous Vehicles with Implicit Distributions of Traffic Behaviors", Transportation Research Part C: Emerging Technologies, vol. 174, 2025, 105106, doi: [10.1016/j.trc.2025.105106](https://doi.org/10.1016/j.trc.2025.105106). [[SSRN](https://ssrn.com/abstract=4973349)] [[pdf](https://www.jingxuanyang.com/file_upload/IIS_TRC.pdf)]
 + Zewei Dong\*, **Jingxuan Yang**, Runze Yuan, Guangzhen Su, Hui Wang, Ming Lei, "A Novel Game-Theoretical Kendall Coefficient Weighting Approach for Autonomous Path Planning Systems Intelligence Evaluation", submitted to Expert Systems with Applications, under review, 9-Aug-2025.
-+ Kun Ren, Yizhou Xu, **Jingxuan Yang**, Yi Zhang, Jianming Hu, Shuo Feng\*, "Intelligent Safety Testing of Autonomous Vehicles with Implicit Traffic Distributions by Dense Reinforcement Learning", submitted to IEEE Transactions on Intelligent Transportation Systems, under review, 16-Aug-2025.
++ Kun Ren, Yizhou Xu, **Jingxuan Yang**, Yi Zhang, Jianming Hu\*, Shuo Feng\*, "Intelligent Safety Testing of Autonomous Vehicles with Implicit Traffic Distributions by Dense Reinforcement Learning", submitted to IEEE Transactions on Intelligent Transportation Systems, under review, 16-Aug-2025.
 + Weichao Xu, Huaxin Pei\*, **Jingxuan Yang**, Yuchen Shi, Yi Zhang, Qianchuan Zhao, "Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach", submitted to IEEE Transactions on Software Engineering, under review, 14-Jan-2025. [[arXiv](https://arxiv.org/abs/2412.06684)]
 + Shu Li, Honglin He, **Jingxuan Yang**, Jianming Hu, Yi Zhang, Shuo Feng\*, "Few-Shot Testing of Autonomous Vehicles with Scenario Similarity Learning", submitted to IEEE Transactions on Intelligent Transportation Systems, under review, 29-Aug-2024. [[arXiv](https://arxiv.org/abs/2409.14369)]
 
@@ -131,6 +131,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
