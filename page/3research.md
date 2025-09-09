@@ -110,7 +110,7 @@ type: page
 + 张毅、何泓霖、晏松、**杨敬轩**、陈宝刚、杨锐、马超，一种用于共享数据访问的用户身份可信辨识的方法，已受理，申请号：CN202310513163.9 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310513163.pdf)]
 + 张毅、何泓霖、晏松、韩少聪、**杨敬轩**、陈宝刚、杨锐，实现空管异构数据共享的系统及方法，已受理，申请号：CN202310513128.7 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310513128.pdf)]
 + 张毅、田野、裴华鑫、李力、**杨敬轩**，一种确定车路协同环境下行车风险场的方法和装置，已授权，专利号：ZL202111056727.8 [[说明书](https://www.jingxuanyang.com/file_upload/CN202111056727.pdf)] [[证书](https://www.jingxuanyang.com/file_upload/ZL2021110567278.pdf)]
-+ 张毅、裴华鑫、姚丹亚、封硕、**杨敬轩**、李力，一种面向自动驾驶的自组织路径规划方法及装置，已受理，申请号：CN202310148934.9 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310148934.pdf)]
++ 张毅、裴华鑫、姚丹亚、封硕、**杨敬轩**、李力，一种面向自动驾驶的自组织路径规划方法及装置，已授权，专利号：ZL202310148934.9 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310148934.pdf)]
 
 <!-- + 封硕、**杨敬轩**、张浩、马修军，一种自动驾驶汽车驾驶策略智能学习评估方法及系统，已受理，申请号：CN202411678050.5 -->
 
@@ -132,6 +132,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
