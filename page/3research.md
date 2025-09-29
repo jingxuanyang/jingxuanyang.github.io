@@ -74,7 +74,8 @@ type: page
 
 ## 期刊审稿
 
-* IEEE Transactions on Intelligent Vehicles ([T-IV](https://ieeexplore.ieee.org/xpl/RecentIssue.jsp?punumber=7274857))
+* IEEE Transactions on Intelligent Transportation Systems ([T-ITS](https://ieee-itss.org/pub/t-its/))
+* IEEE Transactions on Intelligent Vehicles ([T-IV](https://ieee-itss.org/pub/t-iv/))
 * Accident Analysis and Prevention ([AAP](https://www.sciencedirect.com/journal/accident-analysis-and-prevention))
 * SAE International Journal of Electrified Vehicles ([JEV](https://www.sae.org/publications/collections/content/E-JOURNAL-14))
 
@@ -135,6 +136,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
