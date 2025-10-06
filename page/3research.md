@@ -77,6 +77,7 @@ type: page
 * IEEE Transactions on Intelligent Transportation Systems ([T-ITS](https://ieee-itss.org/pub/t-its/))
 * IEEE Transactions on Intelligent Vehicles ([T-IV](https://ieee-itss.org/pub/t-iv/))
 * Accident Analysis and Prevention ([AAP](https://www.sciencedirect.com/journal/accident-analysis-and-prevention))
+* Journal of Advanced Transportation ([JAT](https://onlinelibrary.wiley.com/page/journal/1409))
 * SAE International Journal of Electrified Vehicles ([JEV](https://www.sae.org/publications/collections/content/E-JOURNAL-14))
 
 ## 会议审稿
@@ -136,6 +137,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
