@@ -37,6 +37,13 @@ type: page
 
 ### 奖励荣誉
 
+* 2023.01 系统工程研究所科研贡献奖
+* 2023.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202306-OutstandingMemberCPC.pdf)]
+* 2023.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202312-ComprehensiveExcellentScholarship.pdf)]
+* 2024.01 系统工程研究所科研贡献奖
+* 2024.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202406-OutstandingMemberCPC.pdf)]
+* 2024.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202412-ComprehensiveExcellentScholarship.pdf)]
+* 2025.12 清华大学综合优秀奖学金（一等）
 * 2011.03 唐山市三好学生
 * 2012.02 校级三好学生
 * 2013.01 校级优秀学生干部
@@ -71,13 +78,6 @@ type: page
 * 2022.01 系统工程研究所实验室贡献奖
 * 2022.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202206-OutstandingMemberCPC.pdf)]
 * 2022.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202212-ComprehensiveExcellentScholarship.pdf)]
-* 2023.01 系统工程研究所科研贡献奖
-* 2023.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202306-OutstandingMemberCPC.pdf)]
-* 2023.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202312-ComprehensiveExcellentScholarship.pdf)]
-* 2024.01 系统工程研究所科研贡献奖
-* 2024.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202406-OutstandingMemberCPC.pdf)]
-* 2024.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202412-ComprehensiveExcellentScholarship.pdf)]
-* 2025.12 清华大学综合优秀奖学金（一等）
 
 ## 联系我
 
