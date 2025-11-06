@@ -37,47 +37,47 @@ type: page
 
 ### 奖励荣誉
 
-* 2023.01 系统工程研究所科研贡献奖
-* 2023.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202306-OutstandingMemberCPC.pdf)]
-* 2023.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202312-ComprehensiveExcellentScholarship.pdf)]
-* 2024.01 系统工程研究所科研贡献奖
-* 2024.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202406-OutstandingMemberCPC.pdf)]
-* 2024.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202412-ComprehensiveExcellentScholarship.pdf)]
 * 2025.12 清华大学综合优秀奖学金（一等）
-* 2011.03 唐山市三好学生
-* 2012.02 校级三好学生
-* 2013.01 校级优秀学生干部
-* 2014.03 遵化市三好学生
-* 2014.10 河北省高中数学竞赛高二组一等奖
-* 2014.12 全国中学生英语能力竞赛高中二年级组二等奖
-* 2015.04 河北省三好学生
-* 2015.10 河北省高中数学竞赛高三组一等奖
-* 2016.04 河北省三好学生
-* 2017.05 校级优秀团干部标兵
-* 2017.05 全国大学生英语竞赛二等奖
-* 2017.11 国家奖学金
-* 2017.11 一等奖学金
-* 2017.12 校级三好学生标兵
-* 2017.04 美国大学生数学建模竞赛 Honorable Mention 奖
-* 2018.05 黑龙江省普通高等学校三好学生
-* 2018.05 校级优秀团员标兵
-* 2018.10 校级三好学生
-* 2018.10 一等奖学金
-* 2018.11 全国大学生数学竞赛黑龙江赛区一等奖（第14名）
-* 2019.04 美国大学生数学建模竞赛 Meritorious Winner 奖（国际前8%）
-* 2019.05 全国大学生机械产品数字化设计大赛二等奖
-* 2019.05 全国大学生英语竞赛三等奖
-* 2019.06 全国大学生周培源力学竞赛优秀奖（广东省前15%）
-* 2019.06 机电学院最高荣誉院长奖
-* 2019.10 一等奖学金
-* 2019.10 全国大学生数学竞赛黑龙江赛区二等奖
-* 2020.06 哈尔滨工业大学优秀毕业生
-* 2020.07 校优秀本科毕业设计（论文）
-* 2021.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202112-ComprehensiveExcellentScholarship.pdf)]
-* 2022.01 清华大学-郑维敏奖学金（一等）[[web](http://www.rccm.tsinghua.edu.cn/info/1013/1816.htm)] [[pdf](https://www.jingxuanyang.com/file_upload/2022-WeiminZhengSchalarship.pdf)]
-* 2022.01 系统工程研究所实验室贡献奖
-* 2022.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202206-OutstandingMemberCPC.pdf)]
+* 2024.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202412-ComprehensiveExcellentScholarship.pdf)]
+* 2024.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202406-OutstandingMemberCPC.pdf)]
+* 2024.01 系统工程研究所科研贡献奖
+* 2023.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202312-ComprehensiveExcellentScholarship.pdf)]
+* 2023.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202306-OutstandingMemberCPC.pdf)]
+* 2023.01 系统工程研究所科研贡献奖
 * 2022.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202212-ComprehensiveExcellentScholarship.pdf)]
+* 2022.06 自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202206-OutstandingMemberCPC.pdf)]
+* 2022.01 系统工程研究所实验室贡献奖
+* 2022.01 清华大学-郑维敏奖学金（一等）[[web](http://www.rccm.tsinghua.edu.cn/info/1013/1816.htm)] [[pdf](https://www.jingxuanyang.com/file_upload/2022-WeiminZhengSchalarship.pdf)]
+* 2021.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202112-ComprehensiveExcellentScholarship.pdf)]
+* 2020.07 校优秀本科毕业设计（论文）
+* 2020.06 哈尔滨工业大学优秀毕业生
+* 2019.10 全国大学生数学竞赛黑龙江赛区二等奖
+* 2019.10 一等奖学金
+* 2019.06 机电学院最高荣誉院长奖
+* 2019.06 全国大学生周培源力学竞赛优秀奖（广东省前15%）
+* 2019.05 全国大学生英语竞赛三等奖
+* 2019.05 全国大学生机械产品数字化设计大赛二等奖
+* 2019.04 美国大学生数学建模竞赛 Meritorious Winner 奖（国际前8%）
+* 2018.11 全国大学生数学竞赛黑龙江赛区一等奖（第14名）
+* 2018.10 一等奖学金
+* 2018.10 校级三好学生
+* 2018.05 校级优秀团员标兵
+* 2018.05 黑龙江省普通高等学校三好学生
+* 2017.04 美国大学生数学建模竞赛 Honorable Mention 奖
+* 2017.12 校级三好学生标兵
+* 2017.11 一等奖学金
+* 2017.11 国家奖学金
+* 2017.05 全国大学生英语竞赛二等奖
+* 2017.05 校级优秀团干部标兵
+* 2016.04 河北省三好学生
+* 2015.10 河北省高中数学竞赛高三组一等奖
+* 2015.04 河北省三好学生
+* 2014.12 全国中学生英语能力竞赛高中二年级组二等奖
+* 2014.10 河北省高中数学竞赛高二组一等奖
+* 2014.03 遵化市三好学生
+* 2013.01 校级优秀学生干部
+* 2012.02 校级三好学生
+* 2011.03 唐山市三好学生
 
 ## 联系我
 
