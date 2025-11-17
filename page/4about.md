@@ -102,6 +102,7 @@ type: page
 * GitHub：[jingxuanyang](https://github.com/jingxuanyang), [YangLaTeX](https://github.com/YangLaTeX)
 * Gitee：[jingxuanyang](https://gitee.com/jingxuanyang)
 * GitLab：[jingxuanyang](https://gitlab.com/jingxuanyang)
+* Hugging Face: [jxyang](https://huggingface.co/jxyang)
 * Gravatar: [jingxuanyang](https://gravatar.com/sublimepleasant8d352a2516)
 * Docker Hub: [jingxuanyang](https://hub.docker.com/u/jingxuanyang)
 * CSDN：[九一居士](https://me.csdn.net/csdn_jacksonyoung)
