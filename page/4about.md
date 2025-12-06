@@ -38,6 +38,7 @@ type: page
 ### 奖励荣誉
 
 * 2025.12 清华大学综合优秀奖学金（一等）
+* 2025.05 清华大学二星级紫荆志愿者 [[pdf](https://www.jingxuanyang.com/file_upload/Certificate-2Star-ZIJING-Volunteer.pdf)]
 * 2024.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202412-ComprehensiveExcellentScholarship.pdf)]
 * 2024.06 清华大学自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202406-OutstandingMemberCPC.pdf)]
 * 2024.01 清华大学自动化系系统工程研究所科研贡献奖
