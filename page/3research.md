@@ -46,10 +46,12 @@ type: page
 
 ### 英文论文
 
++ **Jingxuan Yang**, Weichao Xu, Yuchen Shi, Yi Zhang, Shuo Feng, Huaxin Pei\*, "Intelligent Resilience Testing for Decision-Making Agents with Dual-Mode Surrogate Adaptation", submitted to IEEE Transactions on Automation Science and Engineering, under review, 10 December 2025. [[arXiv](https://arxiv.org/abs/2512.09372)]
 + **Jingxuan Yang**, Zihang Wang, Daihan Wang, Yi Zhang, Qiujing Lu, Shuo Feng\*, "Adaptive Safety Performance Testing for Autonomous Vehicles with Adaptive Importance Sampling", Transportation Research Part C: Emerging Technologies, vol. 179, 2025, 105256, doi: [10.1016/j.trc.2025.105256](https://www.doi.org/10.1016/j.trc.2025.105256). [[SSRN](https://ssrn.com/abstract=4993532)] [[pdf](https://www.jingxuanyang.com/file_upload/ADRL_TRC.pdf)] [[code](https://github.com/THU-AI-Testing/Adaptive-Testing-AIS)]
 + **Jingxuan Yang**, Ruoxuan Bai, Haoyuan Ji, Yi Zhang, Jianming Hu, Shuo Feng\*, "Adaptive Testing Environment Generation for Connected and Automated Vehicles with Dense Reinforcement Learning", IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 4, pp. 5135-5145, 2025, doi: [10.1109/TITS.2025.3535866](https://www.doi.org/10.1109/TITS.2025.3535866). [[arXiv](https://arxiv.org/abs/2402.19275)] [[pdf](https://www.jingxuanyang.com/file_upload/2025-DenseRL-TITS.pdf)] [[code](https://github.com/THU-AI-Testing/Adaptive-Testing-DenseRL)]
 + **Jingxuan Yang**, Haowei Sun, Honglin He, Yi Zhang, Henry X. Liu, Shuo Feng\*, "Adaptive Safety Evaluation for Connected and Automated Vehicles with Sparse Control Variates", IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 2, pp. 1761-1773, 2023, doi: [10.1109/TITS.2023.3317078](https://www.doi.org/10.1109/TITS.2023.3317078). [[arXiv](http://arxiv.org/abs/2212.00517)] [[pdf](https://www.jingxuanyang.com/file_upload/SCV_TITS.pdf)] [[code](https://github.com/THU-AI-Testing/Adaptive-Testing-SCV)]
 + Kun Ren, **Jingxuan Yang**, Qiujing Lu, Yi Zhang, Jianming Hu\*, Shuo Feng\*, "Intelligent Testing Environment Generation for Autonomous Vehicles with Implicit Distributions of Traffic Behaviors", Transportation Research Part C: Emerging Technologies, vol. 174, 2025, 105106, doi: [10.1016/j.trc.2025.105106](https://doi.org/10.1016/j.trc.2025.105106). [[SSRN](https://ssrn.com/abstract=4973349)] [[pdf](https://www.jingxuanyang.com/file_upload/IIS_TRC.pdf)]
++  Zewei Dong\*, **Jingxuan Yang**, Runze Yuan, Guangzhen Su, Ming Lei, "A Game-Theoretic Kendall’s Coefficient Weighting Framework for Evaluating Autonomous Path Planning Intelligence", Automation, vol. 6, no. 4, pp. 1-24, 2025, doi: [10.3390/automation6040085](https://doi.org/10.3390/automation6040085) [[pdf](https://www.jingxuanyang.com/file_upload/GTKC-Automation.pdf)]
 + Shu Li, Honglin He, **Jingxuan Yang**, Jianming Hu, Yi Zhang, Shuo Feng\*, "Few-Shot Testing of Autonomous Vehicles with Scenario Similarity Learning", IEEE Transactions on Intelligent Transportation Systems, 2025, doi: [10.1109/TITS.2025.3622257](https://www.doi.org/10.1109/TITS.2025.3622257). [[arXiv](https://arxiv.org/abs/2409.14369)] [[pdf](https://www.jingxuanyang.com/file_upload/2025-FST-TITS.pdf)]
 + Kun Ren, Yizhou Xu, **Jingxuan Yang**, Yi Zhang, Jianming Hu\*, Shuo Feng\*, "Intelligent Safety Testing of Autonomous Vehicles with Implicit Traffic Distributions by Dense Reinforcement Learning", submitted to IEEE Transactions on Intelligent Transportation Systems, under review, 16-Aug-2025.
 + Weichao Xu, Huaxin Pei\*, **Jingxuan Yang**, Yuchen Shi, Yi Zhang, Qianchuan Zhao, "Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach", submitted to IEEE Transactions on Software Engineering, under review, 14-Jan-2025. [[arXiv](https://arxiv.org/abs/2412.06684)]
@@ -138,6 +140,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
