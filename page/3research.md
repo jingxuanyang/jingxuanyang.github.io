@@ -46,7 +46,7 @@ type: page
 
 ### 英文论文
 
-+ **Jingxuan Yang**, Weichao Xu, Yuchen Shi, Yi Zhang, Shuo Feng, Huaxin Pei\*, "Intelligent Resilience Testing for Decision-Making Agents with Dual-Mode Surrogate Adaptation", submitted to IEEE Transactions on Automation Science and Engineering, under review, 10 December 2025. [[arXiv](https://arxiv.org/abs/2512.09372)]
++ **Jingxuan Yang**#, Weichao Xu#, Yuchen Shi, Yi Zhang, Shuo Feng, Huaxin Pei\*, "Intelligent Resilience Testing for Decision-Making Agents with Dual-Mode Surrogate Adaptation", submitted to IEEE Transactions on Automation Science and Engineering, under review, 10 December 2025. [[arXiv](https://arxiv.org/abs/2512.09372)]
 + **Jingxuan Yang**, Zihang Wang, Daihan Wang, Yi Zhang, Qiujing Lu, Shuo Feng\*, "Adaptive Safety Performance Testing for Autonomous Vehicles with Adaptive Importance Sampling", Transportation Research Part C: Emerging Technologies, vol. 179, 2025, 105256, doi: [10.1016/j.trc.2025.105256](https://www.doi.org/10.1016/j.trc.2025.105256). [[SSRN](https://ssrn.com/abstract=4993532)] [[pdf](https://www.jingxuanyang.com/file_upload/ADRL_TRC.pdf)] [[code](https://github.com/THU-AI-Testing/Adaptive-Testing-AIS)]
 + **Jingxuan Yang**, Ruoxuan Bai, Haoyuan Ji, Yi Zhang, Jianming Hu, Shuo Feng\*, "Adaptive Testing Environment Generation for Connected and Automated Vehicles with Dense Reinforcement Learning", IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 4, pp. 5135-5145, 2025, doi: [10.1109/TITS.2025.3535866](https://www.doi.org/10.1109/TITS.2025.3535866). [[arXiv](https://arxiv.org/abs/2402.19275)] [[pdf](https://www.jingxuanyang.com/file_upload/2025-DenseRL-TITS.pdf)] [[code](https://github.com/THU-AI-Testing/Adaptive-Testing-DenseRL)]
 + **Jingxuan Yang**, Haowei Sun, Honglin He, Yi Zhang, Henry X. Liu, Shuo Feng\*, "Adaptive Safety Evaluation for Connected and Automated Vehicles with Sparse Control Variates", IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 2, pp. 1761-1773, 2023, doi: [10.1109/TITS.2023.3317078](https://www.doi.org/10.1109/TITS.2023.3317078). [[arXiv](http://arxiv.org/abs/2212.00517)] [[pdf](https://www.jingxuanyang.com/file_upload/SCV_TITS.pdf)] [[code](https://github.com/THU-AI-Testing/Adaptive-Testing-SCV)]
@@ -140,6 +140,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
