@@ -44,6 +44,9 @@ type: page
 
 ## 期刊论文
 
+> \* Corresponding author(s)
+> \# Co-first authors
+
 ### 英文论文
 
 + **Jingxuan Yang**#, Weichao Xu#, Yuchen Shi, Yi Zhang, Shuo Feng, Huaxin Pei\*, "Intelligent Resilience Testing for Decision-Making Agents with Dual-Mode Surrogate Adaptation", submitted to IEEE Transactions on Automation Science and Engineering, under review, 10 December 2025. [[arXiv](https://arxiv.org/abs/2512.09372)]
@@ -140,6 +143,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
