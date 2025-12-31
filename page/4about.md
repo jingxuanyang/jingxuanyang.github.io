@@ -13,7 +13,7 @@ type: page
 
 ![biography](../figures/bio.jpg)
 
-杨敬轩，清华大学自动化系博士
+杨敬轩，博士，清华大学自动化系博士后
 
 字子渊，号九一居士
 
