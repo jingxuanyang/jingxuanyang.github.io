@@ -59,10 +59,6 @@ type: page
 + Kun Ren, Yizhou Xu, **Jingxuan Yang**, Yi Zhang, Jianming Hu\*, Shuo Feng\*, "Intelligent Safety Testing of Autonomous Vehicles with Implicit Traffic Distributions by Dense Reinforcement Learning", submitted to IEEE Transactions on Intelligent Transportation Systems, under review, 16-Aug-2025.
 + Weichao Xu, Huaxin Pei\*, **Jingxuan Yang**, Yuchen Shi, Yi Zhang, Qianchuan Zhao, "Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach", submitted to IEEE Transactions on Software Engineering, under review, 14-Jan-2025. [[arXiv](https://arxiv.org/abs/2412.06684)]
 
-<!--
-+ Zewei Dong\*, **Jingxuan Yang**, Runze Yuan, Guangzhen Su, Hui Wang, Ming Lei, "A Novel Game-Theoretical Kendall Coefficient Weighting Approach for Autonomous Path Planning Systems Intelligence Evaluation", submitted to Expert Systems with Applications, under review, 9-Aug-2025.
--->
-
 ### 中文论文
 
 + 宿广镇，**杨敬轩**，张毅，封硕\*. 面向稀疏度灾难的密集强化学习优势函数分析与具身应用[J]. 投稿至自动化学报，2025. (under review)
@@ -144,6 +140,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
