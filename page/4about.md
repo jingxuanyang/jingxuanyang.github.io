@@ -19,7 +19,11 @@ type: page
 
 座右铭：为天地立心，为生民立命，为往圣继绝学，为万世开太平！
 
-最近更新：2025年12月
+最近更新：2026年1月
+
+### 工作经历
+
+* 2026.01-present 博士后，[清华大学](https://www.tsinghua.edu.cn/)，[自动化系](https://www.au.tsinghua.edu.cn/index.htm)，[系统工程研究所](https://www.au.tsinghua.edu.cn/jgsz/yjs.htm)，智能交通实验室，合作导师：[张毅教授](https://www.au.tsinghua.edu.cn/info/1110/1574.htm)、[封硕副教授](https://www.au.tsinghua.edu.cn/info/1076/3247.htm)
 
 ### 教育经历
 
