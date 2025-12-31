@@ -23,7 +23,7 @@ type: page
 
 ### 工作经历
 
-* 2026.01-present 博士后，[清华大学](https://www.tsinghua.edu.cn/)，[自动化系](https://www.au.tsinghua.edu.cn/index.htm)，[系统工程研究所](https://www.au.tsinghua.edu.cn/jgsz/yjs.htm)，智能交通实验室，合作导师：[张毅教授](https://www.au.tsinghua.edu.cn/info/1110/1574.htm)，联合指导：[封硕副教授](https://www.au.tsinghua.edu.cn/info/1076/3247.htm)，研究方向：人工智能稀疏度灾难
+* 2026.01-present 博士后：[清华大学](https://www.tsinghua.edu.cn/)，[自动化系](https://www.au.tsinghua.edu.cn/index.htm)，[系统工程研究所](https://www.au.tsinghua.edu.cn/jgsz/yjs.htm)，智能交通实验室，合作导师：[张毅教授](https://www.au.tsinghua.edu.cn/info/1110/1574.htm)，联合指导：[封硕副教授](https://www.au.tsinghua.edu.cn/info/1076/3247.htm)，研究方向：人工智能稀疏度灾难
 
 ### 教育经历
 
