@@ -74,7 +74,7 @@ type: page
 + Shu Li, **Jingxuan Yang**, Honglin He, Yi Zhang, Jianming Hu, Shuo Feng\*, "Few-Shot Scenario Testing for Autonomous Vehicles Based on Neighborhood Coverage and Similarity", IEEE Intelligent Vehicles Symposium (IV), 2024, pp. 620-626, doi: [10.1109/IV55156.2024.10588417](https://www.doi.org/10.1109/IV55156.2024.10588417). [[arXiv](https://arxiv.org/abs/2402.01795)] [[pdf](https://www.jingxuanyang.com/file_upload/2024-IV-FST.pdf)]
 + Honglin He, Shu Li, **Jingxuan Yang**, Linxuan He, Qiujing Lu, Yi Zhang, Shuo Feng\*, "KnowMoformer: Knowledge-Conditioned Motion Transformer for Controllable Traffic Scenario Simulation", IEEE/CVF Conference on Computer Vision and Pattern Recognition (CVPR) Workshop on Data-Driven Autonomous Driving Simulation, 2024. [[pdf](https://agents4ad.github.io/assets/cvpr2024/papers/11.pdf)] [[poster](https://agents4ad.github.io/assets/cvpr2024/posters/11.pdf)]
 + Ye Tian, Huaxin Pei, **Jingxuan Yang**, Jianming Hu, Yi Zhang\*, Xin Pei, "An Improved Model of Driving Risk Field for Connected and Automated Vehicles", IEEE International Conference on Intelligent Transportation Systems (ITSC), 2021, pp. 285-291, doi: [10.1109/ITSC48978.2021.9565069](https://www.doi.org/10.1109/ITSC48978.2021.9565069). [[pdf](https://www.jingxuanyang.com/file_upload/improved_drf_itsc21.pdf)]
-+ Zewei Dong\*, Xiaoqin Liu, **Jingxuan Yang**, Xun Yan, Shuyan Lei, Yaze Guo, Ming Lei, "Evaluation of Learning Internalization Capabilities of AVs Based on Time-Series Correlation Analysis", COTA (Chinese Overseas Transportation Association) International Conference of Transportation Professionals (CICTP), 2026.
++ Zewei Dong\*, Xiaoqin Liu, **Jingxuan Yang**, Xun Yan, Shuyan Lei, Yaze Guo, Ming Lei, "Evaluation of Learning Internalization Capabilities of AVs Based on Time-Series Correlation Analysis", COTA International Conference of Transportation Professionals (CICTP), 2026.
 
 ## 期刊审稿
 
@@ -143,6 +143,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
