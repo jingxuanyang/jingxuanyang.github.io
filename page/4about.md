@@ -61,19 +61,19 @@ type: page
 * 2019.06 哈尔滨工业大学（深圳）机电学院最高荣誉院长奖
 * 2019.06 全国大学生周培源力学竞赛优秀奖（广东省前15%）
 * 2019.05 全国大学生英语竞赛三等奖
-* 2019.05 全国大学生机械产品数字化设计大赛二等奖
-* 2019.04 美国大学生数学建模竞赛 Meritorious Winner 奖（国际前8%）
-* 2018.11 全国大学生数学竞赛黑龙江赛区一等奖（第14名）
+* 2019.05 全国大学生机械产品数字化设计大赛二等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2019-Digital-Design-2nd.pdf)]
+* 2019.04 美国大学生数学建模竞赛 Meritorious Winner 奖（国际前8%）[[pdf](https://www.jingxuanyang.com/file_upload/2019-MCM-M.pdf)]
+* 2018.11 全国大学生数学竞赛黑龙江赛区一等奖（第14名）[[pdf](https://www.jingxuanyang.com/file_upload/2018-Math-1st.pdf)]
 * 2018.10 哈尔滨工业大学（深圳）一等奖学金
 * 2018.10 哈尔滨工业大学（深圳）三好学生
-* 2018.05 哈尔滨工业大学（深圳）优秀团员标兵
-* 2018.05 黑龙江省普通高等学校三好学生
-* 2017.04 美国大学生数学建模竞赛 Honorable Mention 奖
-* 2017.12 哈尔滨工业大学（深圳）三好学生标兵
-* 2017.11 哈尔滨工业大学（深圳）一等奖学金
-* 2017.11 国家奖学金
-* 2017.05 全国大学生英语竞赛二等奖
-* 2017.05 哈尔滨工业大学（深圳）优秀团干部标兵
+* 2018.05 哈尔滨工业大学（深圳）优秀团员标兵 [[pdf](https://www.jingxuanyang.com/file_upload/2018-Outstanding-League-Member-Pacesetter.pdf)]
+* 2018.05 黑龙江省普通高等学校三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2018-Heilongjiang-AAA.pdf)]
+* 2018.04 美国大学生数学建模竞赛 Honorable Mention 奖 [[pdf](https://www.jingxuanyang.com/file_upload/2018-MCM-H.pdf)]
+* 2017.12 哈尔滨工业大学三好学生标兵 [[pdf](https://www.jingxuanyang.com/file_upload/2017-HIT-AAA-Pacesetter.pdf)]
+* 2017.11 哈尔滨工业大学（深圳）一等奖学金 [[pdf](https://www.jingxuanyang.com/file_upload/2017-First-Class-Scholarship.pdf)]
+* 2017.11 国家奖学金 [[pdf](https://www.jingxuanyang.com/file_upload/2017-National-Scholarship.pdf)]
+* 2017.05 全国大学生英语竞赛二等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2017-NECCS-2nd.pdf)]
+* 2017.05 哈尔滨工业大学（深圳）优秀团干部标兵 [[pdf](https://www.jingxuanyang.com/file_upload/2017-Outstanding-League-Cadre-Pacesetter.pdf)]
 * 2016.04 河北省三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2016-Hebei-AAA.pdf)]
 * 2015.10 河北省高中数学竞赛高三组一等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2015-High-School-Math-1st.pdf)]
 * 2015.04 河北省三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2015-Hebei-AAA.pdf)]
