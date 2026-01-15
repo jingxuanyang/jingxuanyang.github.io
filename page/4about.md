@@ -54,8 +54,8 @@ type: page
 * 2022.01 清华大学自动化系系统工程研究所实验室贡献奖
 * 2022.01 清华大学—郑维敏奖学金（一等）[[web](https://www.rccm.tsinghua.edu.cn/info/1023/1309.htm)] [[pdf](https://www.jingxuanyang.com/file_upload/2022-WeiminZhengSchalarship.pdf)]
 * 2021.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202112-ComprehensiveExcellentScholarship.pdf)]
-* 2020.07 哈尔滨工业大学优秀本科毕业设计（论文）
-* 2020.06 哈尔滨工业大学优秀毕业生
+* 2020.07 哈尔滨工业大学优秀本科毕业设计（论文）[[pdf](https://www.jingxuanyang.com/file_upload/2020-HITSZ-Excellent-Dissertation.pdf)]
+* 2020.06 哈尔滨工业大学优秀毕业生 [[pdf](https://www.jingxuanyang.com/file_upload/2020-HIT-Outstanding-Graduate.pdf)]
 * 2019.10 全国大学生数学竞赛黑龙江赛区二等奖
 * 2019.10 哈尔滨工业大学（深圳）一等奖学金
 * 2019.06 哈尔滨工业大学（深圳）机电学院最高荣誉院长奖
@@ -74,12 +74,12 @@ type: page
 * 2017.11 国家奖学金
 * 2017.05 全国大学生英语竞赛二等奖
 * 2017.05 哈尔滨工业大学（深圳）优秀团干部标兵
-* 2016.04 河北省三好学生
-* 2015.10 河北省高中数学竞赛高三组一等奖
-* 2015.04 河北省三好学生
-* 2014.12 全国中学生英语能力竞赛高中二年级组二等奖
-* 2014.10 河北省高中数学竞赛高二组一等奖
-* 2014.03 遵化市三好学生
+* 2016.04 河北省三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2016-Hebei-AAA.pdf)]
+* 2015.10 河北省高中数学竞赛高三组一等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2015-High-School-Math-1st.pdf)]
+* 2015.04 河北省三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2015-Hebei-AAA.pdf)]
+* 2014.12 全国中学生英语能力竞赛高中二年级组二等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2015-High-School-English-2nd.pdf)]
+* 2014.10 河北省高中数学竞赛高二组一等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2014-High-School-Math-1st.pdf)]
+* 2014.03 遵化市三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2014-Zunhua-AAA.pdf)]
 * 2013.01 东旧寨镇中学优秀学生干部
 * 2012.02 东旧寨镇中学三好学生
 * 2011.03 唐山市三好学生
