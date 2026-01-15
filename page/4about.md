@@ -80,10 +80,9 @@ type: page
 * 2014.12 全国中学生英语能力竞赛高中二年级组二等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2015-High-School-English-2nd.pdf)]
 * 2014.10 河北省高中数学竞赛高二组一等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2014-High-School-Math-1st.pdf)]
 * 2014.03 遵化市三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2014-Zunhua-AAA.pdf)]
-* 2013.01 东旧寨镇中学优秀学生干部
-* 2012.02 东旧寨镇中学三好学生
-* 2011.03 唐山市三好学生
-* 2011.03 遵化市三好学生
+* 2013.01 东旧寨镇中学优秀学生干部 [[pdf](https://www.jingxuanyang.com/file_upload/2013-Dongjiuzhai-Outstanding-Leader.pdf)]
+* 2012.02 东旧寨镇中学三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2012-Dongjiuzhai-AAA.pdf)]
+* 2011.03 唐山市三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2011-Tangshan-AAA.pdf)]
 
 ## 联系我
 
