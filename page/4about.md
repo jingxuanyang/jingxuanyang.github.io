@@ -41,6 +41,7 @@ type: page
 
 ### 奖励荣誉
 
+* 2026.01 清华大学—郑维敏奖学金（一等）[[web](https://www.rccm.tsinghua.edu.cn/info/1023/2194.htm)]
 * 2026.01 清华大学自动化系系统工程研究所学术优秀奖 [[pdf](https://www.jingxuanyang.com/file_upload/2026-Academic-Excellence-Award.pdf)]
 * 2025.12 清华大学综合优秀奖学金（一等）
 * 2025.05 清华大学二星级紫荆志愿者 [[pdf](https://www.jingxuanyang.com/file_upload/Certificate-2Star-ZIJING-Volunteer.pdf)]
@@ -52,8 +53,8 @@ type: page
 * 2023.01 清华大学自动化系系统工程研究所科研贡献奖
 * 2022.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202212-ComprehensiveExcellentScholarship.pdf)]
 * 2022.06 清华大学自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202206-OutstandingMemberCPC.pdf)]
-* 2022.01 清华大学自动化系系统工程研究所实验室贡献奖
 * 2022.01 清华大学—郑维敏奖学金（一等）[[web](https://www.rccm.tsinghua.edu.cn/info/1023/1309.htm)] [[pdf](https://www.jingxuanyang.com/file_upload/2022-WeiminZhengSchalarship.pdf)]
+* 2022.01 清华大学自动化系系统工程研究所实验室贡献奖
 * 2021.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202112-ComprehensiveExcellentScholarship.pdf)]
 * 2020.07 哈尔滨工业大学（深圳）优秀本科毕业设计（论文）[[pdf](https://www.jingxuanyang.com/file_upload/2020-HITSZ-Excellent-Dissertation.pdf)]
 * 2020.06 哈尔滨工业大学优秀毕业生 [[pdf](https://www.jingxuanyang.com/file_upload/2020-HIT-Outstanding-Graduate.pdf)]
