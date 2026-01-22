@@ -41,6 +41,7 @@ type: page
 
 ### 奖励荣誉
 
+* 2026.01 清华大学自动化系系统工程研究所学术优秀奖 [[pdf](https://www.jingxuanyang.com/file_upload/2026-Academic-Excellence-Award.pdf)]
 * 2025.12 清华大学综合优秀奖学金（一等）
 * 2025.05 清华大学二星级紫荆志愿者 [[pdf](https://www.jingxuanyang.com/file_upload/Certificate-2Star-ZIJING-Volunteer.pdf)]
 * 2024.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202412-ComprehensiveExcellentScholarship.pdf)]
