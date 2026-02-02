@@ -59,6 +59,7 @@ type: page
 + Shu Li, Honglin He, **Jingxuan Yang**, Jianming Hu, Yi Zhang, Shuo Feng\*, "Few-Shot Testing of Autonomous Vehicles with Scenario Similarity Learning", IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 12, pp. 22804-22817, 2025, doi: [10.1109/TITS.2025.3622257](https://www.doi.org/10.1109/TITS.2025.3622257). [[arXiv](https://arxiv.org/abs/2409.14369)] [[pdf](https://www.jingxuanyang.com/file_upload/2025-FST-TITS.pdf)]
 + Kun Ren, Yizhou Xu, **Jingxuan Yang**, Yi Zhang, Jianming Hu\*, Shuo Feng\*, "Intelligent Safety Testing of Autonomous Vehicles with Implicit Traffic Distributions by Dense Reinforcement Learning", submitted to IEEE Transactions on Intelligent Transportation Systems, under review, 16-Aug-2025.
 + Weichao Xu, Huaxin Pei\*, **Jingxuan Yang**, Yuchen Shi, Yi Zhang, Qianchuan Zhao, "Exploring Critical Testing Scenarios for Decision-Making Policies: An LLM Approach", submitted to IEEE Transactions on Software Engineering, under review, 14-Jan-2025. [[arXiv](https://arxiv.org/abs/2412.06684)]
++ Zewei Dong\*, Yaze Guo, **Jingxuan Yang**, Xiaochuan Tang, Weichao Xu, Ming Lei, "A Fine-Grained Difficulty and Similarity Framework for Dynamic Evaluation of Path-Planning Generalization in UGVs", Drones, vol. 10, no. 2, pp. 1-28, 2026, doi: [10.3390/drones10020101](https://doi.org/10.3390/drones10020101). [[pdf](https://www.jingxuanyang.com/file_upload/Generalization-Drones.pdf)]
 + Shuo Feng, Haojie Zhu, Haowei Sun, Xintao Yan, Linxuan He, **Jingxuan Yang**, Guangzhen Su, Boqi Li, Shu Li, Ling Wang, Shengyin Shen, Henry X. Liu\*, "Breaking through Safety Performance Stagnation in Autonomous Vehicles with Dense Learning", Nature Communications, 2026. [[code](https://github.com/michigan-traffic-lab/Dense-Learning-for-AV-Training)]
 
 ### 中文论文
@@ -143,6 +144,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
