@@ -114,7 +114,7 @@ type: page
 + 张毅、葛经纬、**杨敬轩**、晏松、胡坚明，一种车路协同环境下车辆动态可信关系建立方法及装置，已授权，专利号：ZL202111188778.6 [[说明书](https://www.jingxuanyang.com/file_upload/CN202111188778.pdf)] [[证书](https://www.jingxuanyang.com/file_upload/ZL2021111887786.pdf)]
 + 张毅、葛经纬、姚丹亚、**杨敬轩**、史宇辰、李力、张佐，自动驾驶测试任务难度调整方法及装置、存储介质，已受理，申请号：CN202310364979.X [[说明书](https://www.jingxuanyang.com/file_upload/CN202310364979.pdf)]
 + 张毅、葛经纬、姚丹亚、**杨敬轩**、史宇辰、裴欣、张佐，自动驾驶测试场景库生成方法及装置、存储介质，已受理，申请号：CN202310369199.4 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310369199.pdf)]
-+ 张毅、何泓霖、封硕、**杨敬轩**、裴华鑫、张佐，一种实现测试场景生成的模型的训练方法，已受理，申请号：CN202310410081.1 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310410081.pdf)]
++ 张毅、何泓霖、封硕、**杨敬轩**、裴华鑫、张佐，一种实现测试场景生成的模型的训练方法，已受理，申请号：CN202310410081.1 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310410081.pdf)] [[证书](https://www.jingxuanyang.com/file_upload/ZL2023104100811.pdf)]
 + 张毅、何泓霖、封硕、**杨敬轩**、彭黎辉、张佐，一种实现自动驾驶感知层测试场景生成的方法，已受理，申请号：CN202310513125.3 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310513125.pdf)]
 + 封硕、李述、张毅、**杨敬轩**、 何泓霖，一种测试评估的方法、计算机存储介质及终端，已受理，申请号：CN202410336952.4 [[说明书](https://www.jingxuanyang.com/file_upload/CN202410336952.pdf)]
 + 封硕、李述、陆秋婧、**杨敬轩**、何林轩、张毅、胡坚明，场景相似度网络训练、典型场景获取、测试方法和平台，已受理，申请号：CN202411426595.7 [[说明书](https://www.jingxuanyang.com/file_upload/CN202411426595.pdf)]
@@ -144,6 +144,7 @@ type: page
 ## Comments
 
 {% include comments.html %}
+
 
 
 
