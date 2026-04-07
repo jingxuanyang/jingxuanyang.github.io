@@ -41,7 +41,7 @@ type: page
 
 ### 奖励荣誉
 
-* 2026.01 清华大学—郑维敏奖学金（一等）[[web](https://www.rccm.tsinghua.edu.cn/info/1023/2194.htm)]
+* 2026.03 清华大学—郑维敏奖学金（一等）[[web](https://www.rccm.tsinghua.edu.cn/info/1023/2194.htm)] [[pdf](https://www.jingxuanyang.com/file_upload/2026-WeiminZhengSchalarship.pdf)]
 * 2026.01 清华大学自动化系系统工程研究所学术优秀奖 [[pdf](https://www.jingxuanyang.com/file_upload/2026-Academic-Excellence-Award.pdf)]
 * 2025.12 清华大学综合优秀奖学金（一等）[[pdf](https://www.jingxuanyang.com/file_upload/202512-ComprehensiveExcellentScholarship.pdf)]
 * 2025.05 清华大学二星级紫荆志愿者 [[pdf](https://www.jingxuanyang.com/file_upload/Certificate-2Star-ZIJING-Volunteer.pdf)]
