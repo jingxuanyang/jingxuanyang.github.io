@@ -87,6 +87,7 @@ type: page
 
 ## 会议审稿
 
+* The 22nd IEEE International Conference on Automation Science and Engineering ([CASE 2026](https://2026.ieeecase.org/))
 * The IEEE International Conference on Intelligent Transportation Systems ([ITSC 2026](https://ieee-itsc.org/2026/))
 * The IEEE Intelligent Vehicles Symposium ([IV 2026](https://ieee-iv.org/2026/))
 * The 26th COTA International Conference of Transportation Professionals ([CICTP 2026](https://cictp2026.sdjtu.edu.cn/))
