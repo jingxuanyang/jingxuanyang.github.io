@@ -13,7 +13,7 @@ type: page
 
 ![biography](../figures/bio.jpg)
 
-杨敬轩，清华大学自动化系博士后、助理研究员，清华大学水木学者
+杨敬轩，清华大学自动化系博士后、助理研究员，清华大学[水木学者](https://postdoctor.tsinghua.edu.cn/thu/index.htm)
 
 字子渊，号九一居士
 
