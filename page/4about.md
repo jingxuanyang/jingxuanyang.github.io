@@ -41,7 +41,7 @@ type: page
 
 ### 奖励荣誉
 
-* 2026.06 清华大学水木学者
+* 2026.06 清华大学水木学者 [[pdf](https://www.jingxuanyang.com/file_upload/Shui-Mu-Tsinghua-Scholar.pdf)]
 * 2026.06 清华大学优秀博士学位论文
 * 2026.06 清华大学自动化系优秀毕业生
 * 2026.06 清华大学优良毕业生
