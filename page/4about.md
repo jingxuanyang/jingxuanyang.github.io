@@ -42,7 +42,7 @@ type: page
 ### 奖励荣誉
 
 * 2026.06 清华大学水木学者 [[pdf](https://www.jingxuanyang.com/file_upload/Shui-Mu-Tsinghua-Scholar.pdf)]
-* 2026.06 清华大学优秀博士学位论文
+* 2026.06 清华大学优秀博士学位论文 [[pdf](https://www.jingxuanyang.com/file_upload/2026-THU-Best-PhD-Dissertation.pdf)]
 * 2026.06 清华大学自动化系优秀毕业生 [[pdf](https://www.jingxuanyang.com/file_upload/2026-THUDA-Outstanding-Graduate.pdf)]
 * 2026.06 清华大学优良毕业生 [[pdf](https://www.jingxuanyang.com/file_upload/2026-THU-Outstanding-Graduate.pdf)]
 * 2026.03 清华大学—郑维敏奖学金（一等）[[web](https://www.rccm.tsinghua.edu.cn/info/1023/2194.htm)] [[pdf](https://www.jingxuanyang.com/file_upload/2026-WeiminZhengSchalarship.pdf)]
