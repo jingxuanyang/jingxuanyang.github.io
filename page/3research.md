@@ -111,6 +111,7 @@ type: page
 + 封硕、**杨敬轩**、张毅、王子航、姬浩元、陆秋婧，未知危险场景的获取和控制方法、存储介质和电子装置，已受理，申请号：CN202511204241.2 [[说明书](https://www.jingxuanyang.com/file_upload/CN202511204241.pdf)]
 + 封硕、**杨敬轩**、张毅、王子航、姬浩元、程诗景，一种自动驾驶未知危险场景模型的建立和管理方法，已受理，申请号：CN202511204185.2 [[说明书](https://www.jingxuanyang.com/file_upload/CN202511204185.pdf)]
 + 封硕、**杨敬轩**、张毅、王子航、姬浩元、姚丹亚，一种自动驾驶未知危险场景的生成方法及电子设备，已授权，专利号：ZL202511204239.5 [[说明书](https://www.jingxuanyang.com/file_upload/CN202511204239.pdf)] [[证书](https://www.jingxuanyang.com/file_upload/ZL2025112042395.pdf)]
++ 封硕、**杨敬轩**、张浩、马修军，一种自动驾驶汽车驾驶策略智能学习评估方法及系统，已受理，申请号：CN202411678050.5 [[说明书](https://www.jingxuanyang.com/file_upload/CN202411678050.pdf)]
 + 张毅、**杨敬轩**、晏松、何泓霖、陈宝刚、杨锐、马超，一种数据安全性分级方法、装置、存储介质和电子装置，已受理，申请号：CN202310086159.9 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310086159.pdf)]
 + 张毅、**杨敬轩**、何蜀燕、张佐、张磊、叶德建，一种面向单诊室的医院就诊顺序优化方法及装置，已授权，专利号：ZL202111026993.6 [[说明书](https://www.jingxuanyang.com/file_upload/CN202111026993.pdf)] [[证书](https://www.jingxuanyang.com/file_upload/ZL2021110269936.pdf)]
 + 张毅、**杨敬轩**、何蜀燕、张佐、张磊、叶德建，一种候诊等待时间预测方法、装置及存储介质，已受理，申请号：CN202310215685.0 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310215685.pdf)]
@@ -129,8 +130,6 @@ type: page
 + 张毅、何泓霖、晏松、韩少聪、**杨敬轩**、陈宝刚、杨锐，实现空管异构数据共享的系统及方法，已受理，申请号：CN202310513128.7 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310513128.pdf)]
 + 张毅、田野、裴华鑫、李力、**杨敬轩**，一种确定车路协同环境下行车风险场的方法和装置，已授权，专利号：ZL202111056727.8 [[说明书](https://www.jingxuanyang.com/file_upload/CN202111056727.pdf)] [[证书](https://www.jingxuanyang.com/file_upload/ZL2021110567278.pdf)]
 + 张毅、裴华鑫、姚丹亚、封硕、**杨敬轩**、李力，一种面向自动驾驶的自组织路径规划方法及装置，已授权，专利号：ZL202310148934.9 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310148934.pdf)] [[证书](https://www.jingxuanyang.com/file_upload/ZL2023101489349.pdf)]
-
-<!-- + 封硕、**杨敬轩**、张浩、马修军，一种自动驾驶汽车驾驶策略智能学习评估方法及系统，已受理，申请号：CN202411678050.5 -->
 
 ## 软件著作权
 
