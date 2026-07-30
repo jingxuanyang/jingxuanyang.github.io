@@ -41,54 +41,54 @@ type: page
 
 ### 奖励荣誉
 
-* 2026.06 清华大学水木学者 [[pdf](https://www.jingxuanyang.com/file_upload/Shui-Mu-Tsinghua-Scholar.pdf)]
-* 2026.06 清华大学优秀博士学位论文 [[pdf](https://www.jingxuanyang.com/file_upload/2026-THU-Best-PhD-Dissertation.pdf)]
-* 2026.06 清华大学自动化系优秀毕业生 [[pdf](https://www.jingxuanyang.com/file_upload/2026-THUDA-Outstanding-Graduate.pdf)]
-* 2026.06 清华大学优良毕业生 [[pdf](https://www.jingxuanyang.com/file_upload/2026-THU-Outstanding-Graduate.pdf)]
-* 2026.03 清华大学—郑维敏奖学金（一等）[[web](https://www.rccm.tsinghua.edu.cn/info/1023/2194.htm)] [[pdf](https://www.jingxuanyang.com/file_upload/2026-WeiminZhengSchalarship.pdf)]
-* 2026.01 清华大学自动化系系统工程研究所学术优秀奖 [[pdf](https://www.jingxuanyang.com/file_upload/2026-Academic-Excellence-Award.pdf)]
-* 2025.12 清华大学综合优秀奖学金（一等）[[pdf](https://www.jingxuanyang.com/file_upload/202512-ComprehensiveExcellentScholarship.pdf)]
-* 2025.05 清华大学二星级紫荆志愿者 [[pdf](https://www.jingxuanyang.com/file_upload/Certificate-2Star-ZIJING-Volunteer.pdf)]
-* 2024.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202412-ComprehensiveExcellentScholarship.pdf)]
-* 2024.06 清华大学自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202406-OutstandingMemberCPC.pdf)]
-* 2024.01 清华大学自动化系系统工程研究所科研贡献奖
-* 2023.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202312-ComprehensiveExcellentScholarship.pdf)]
-* 2023.06 清华大学自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202306-OutstandingMemberCPC.pdf)]
-* 2023.01 清华大学自动化系系统工程研究所科研贡献奖
-* 2022.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202212-ComprehensiveExcellentScholarship.pdf)]
-* 2022.06 清华大学自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202206-OutstandingMemberCPC.pdf)]
-* 2022.01 清华大学—郑维敏奖学金（一等）[[web](https://www.rccm.tsinghua.edu.cn/info/1023/1309.htm)] [[pdf](https://www.jingxuanyang.com/file_upload/2022-WeiminZhengSchalarship.pdf)]
-* 2022.01 清华大学自动化系系统工程研究所实验室贡献奖
-* 2021.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202112-ComprehensiveExcellentScholarship.pdf)]
-* 2020.07 哈尔滨工业大学（深圳）优秀本科毕业设计（论文）[[pdf](https://www.jingxuanyang.com/file_upload/2020-HITSZ-Excellent-Dissertation.pdf)]
-* 2020.06 哈尔滨工业大学优秀毕业生 [[pdf](https://www.jingxuanyang.com/file_upload/2020-HIT-Outstanding-Graduate.pdf)]
-* 2019.10 全国大学生数学竞赛黑龙江赛区二等奖
-* 2019.10 哈尔滨工业大学（深圳）一等奖学金
-* 2019.06 哈尔滨工业大学（深圳）机电学院最高荣誉院长奖
-* 2019.06 全国大学生周培源力学竞赛优秀奖（广东省前15%）
-* 2019.05 全国大学生英语竞赛三等奖
-* 2019.05 全国大学生机械产品数字化设计大赛二等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2019-Digital-Design-2nd.pdf)]
-* 2019.04 美国大学生数学建模竞赛 Meritorious Winner 奖（国际前8%）[[pdf](https://www.jingxuanyang.com/file_upload/2019-MCM-M.pdf)]
-* 2018.11 全国大学生数学竞赛黑龙江赛区一等奖（第14名）[[pdf](https://www.jingxuanyang.com/file_upload/2018-Math-1st.pdf)]
-* 2018.10 哈尔滨工业大学（深圳）一等奖学金
-* 2018.10 哈尔滨工业大学（深圳）三好学生
-* 2018.05 哈尔滨工业大学优秀团员标兵 [[pdf](https://www.jingxuanyang.com/file_upload/2018-Outstanding-League-Member-Pacesetter.pdf)]
-* 2018.05 黑龙江省普通高等学校三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2018-Heilongjiang-AAA.pdf)]
-* 2018.04 美国大学生数学建模竞赛 Honorable Mention 奖 [[pdf](https://www.jingxuanyang.com/file_upload/2018-MCM-H.pdf)]
-* 2017.12 哈尔滨工业大学三好学生标兵 [[pdf](https://www.jingxuanyang.com/file_upload/2017-HIT-AAA-Pacesetter.pdf)]
-* 2017.11 哈尔滨工业大学（深圳）一等奖学金 [[pdf](https://www.jingxuanyang.com/file_upload/2017-First-Class-Scholarship.pdf)]
-* 2017.11 国家奖学金 [[pdf](https://www.jingxuanyang.com/file_upload/2017-National-Scholarship.pdf)]
-* 2017.05 全国大学生英语竞赛二等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2017-NECCS-2nd.pdf)]
-* 2017.05 哈尔滨工业大学优秀团干部标兵 [[pdf](https://www.jingxuanyang.com/file_upload/2017-Outstanding-League-Cadre-Pacesetter.pdf)]
-* 2016.04 河北省三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2016-Hebei-AAA.pdf)]
-* 2015.10 河北省高中数学竞赛高三组一等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2015-High-School-Math-1st.pdf)]
-* 2015.04 河北省三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2015-Hebei-AAA.pdf)]
-* 2014.12 全国中学生英语能力竞赛高中二年级组二等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2015-High-School-English-2nd.pdf)]
-* 2014.10 河北省高中数学竞赛高二组一等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2014-High-School-Math-1st.pdf)]
-* 2014.03 遵化市三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2014-Zunhua-AAA.pdf)]
-* 2013.01 东旧寨镇中学优秀学生干部 [[pdf](https://www.jingxuanyang.com/file_upload/2013-Dongjiuzhai-Outstanding-Leader.pdf)]
-* 2012.02 东旧寨镇中学三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2012-Dongjiuzhai-AAA.pdf)]
-* 2011.03 唐山市三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2011-Tangshan-AAA.pdf)]
+1. 2026.06 清华大学水木学者 [[pdf](https://www.jingxuanyang.com/file_upload/Shui-Mu-Tsinghua-Scholar.pdf)]
+2. 2026.06 清华大学优秀博士学位论文 [[pdf](https://www.jingxuanyang.com/file_upload/2026-THU-Best-PhD-Dissertation.pdf)]
+3. 2026.06 清华大学自动化系优秀毕业生 [[pdf](https://www.jingxuanyang.com/file_upload/2026-THUDA-Outstanding-Graduate.pdf)]
+4. 2026.06 清华大学优良毕业生 [[pdf](https://www.jingxuanyang.com/file_upload/2026-THU-Outstanding-Graduate.pdf)]
+5. 2026.03 清华大学—郑维敏奖学金（一等）[[web](https://www.rccm.tsinghua.edu.cn/info/1023/2194.htm)] [[pdf](https://www.jingxuanyang.com/file_upload/2026-WeiminZhengSchalarship.pdf)]
+6. 2026.01 清华大学自动化系系统工程研究所学术优秀奖 [[pdf](https://www.jingxuanyang.com/file_upload/2026-Academic-Excellence-Award.pdf)]
+7. 2025.12 清华大学综合优秀奖学金（一等）[[pdf](https://www.jingxuanyang.com/file_upload/202512-ComprehensiveExcellentScholarship.pdf)]
+8. 2025.05 清华大学二星级紫荆志愿者 [[pdf](https://www.jingxuanyang.com/file_upload/Certificate-2Star-ZIJING-Volunteer.pdf)]
+9. 2024.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202412-ComprehensiveExcellentScholarship.pdf)]
+10. 2024.06 清华大学自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202406-OutstandingMemberCPC.pdf)]
+11. 2024.01 清华大学自动化系系统工程研究所科研贡献奖
+12. 2023.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202312-ComprehensiveExcellentScholarship.pdf)]
+13. 2023.06 清华大学自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202306-OutstandingMemberCPC.pdf)]
+14. 2023.01 清华大学自动化系系统工程研究所科研贡献奖
+15. 2022.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202212-ComprehensiveExcellentScholarship.pdf)]
+16. 2022.06 清华大学自动化系优秀共产党员 [[pdf](https://www.jingxuanyang.com/file_upload/202206-OutstandingMemberCPC.pdf)]
+17. 2022.01 清华大学—郑维敏奖学金（一等）[[web](https://www.rccm.tsinghua.edu.cn/info/1023/1309.htm)] [[pdf](https://www.jingxuanyang.com/file_upload/2022-WeiminZhengSchalarship.pdf)]
+18. 2022.01 清华大学自动化系系统工程研究所实验室贡献奖
+19. 2021.12 清华大学综合优秀奖学金（二等）[[pdf](https://www.jingxuanyang.com/file_upload/202112-ComprehensiveExcellentScholarship.pdf)]
+20. 2020.07 哈尔滨工业大学（深圳）优秀本科毕业设计（论文）[[pdf](https://www.jingxuanyang.com/file_upload/2020-HITSZ-Excellent-Dissertation.pdf)]
+21. 2020.06 哈尔滨工业大学优秀毕业生 [[pdf](https://www.jingxuanyang.com/file_upload/2020-HIT-Outstanding-Graduate.pdf)]
+22. 2019.10 全国大学生数学竞赛黑龙江赛区二等奖
+23. 2019.10 哈尔滨工业大学（深圳）一等奖学金
+24. 2019.06 哈尔滨工业大学（深圳）机电学院最高荣誉院长奖
+25. 2019.06 全国大学生周培源力学竞赛优秀奖（广东省前15%）
+26. 2019.05 全国大学生英语竞赛三等奖
+27. 2019.05 全国大学生机械产品数字化设计大赛二等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2019-Digital-Design-2nd.pdf)]
+28. 2019.04 美国大学生数学建模竞赛 Meritorious Winner 奖（国际前8%）[[pdf](https://www.jingxuanyang.com/file_upload/2019-MCM-M.pdf)]
+29. 2018.11 全国大学生数学竞赛黑龙江赛区一等奖（第14名）[[pdf](https://www.jingxuanyang.com/file_upload/2018-Math-1st.pdf)]
+30. 2018.10 哈尔滨工业大学（深圳）一等奖学金
+31. 2018.10 哈尔滨工业大学（深圳）三好学生
+32. 2018.05 哈尔滨工业大学优秀团员标兵 [[pdf](https://www.jingxuanyang.com/file_upload/2018-Outstanding-League-Member-Pacesetter.pdf)]
+33. 2018.05 黑龙江省普通高等学校三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2018-Heilongjiang-AAA.pdf)]
+34. 2018.04 美国大学生数学建模竞赛 Honorable Mention 奖 [[pdf](https://www.jingxuanyang.com/file_upload/2018-MCM-H.pdf)]
+35. 2017.12 哈尔滨工业大学三好学生标兵 [[pdf](https://www.jingxuanyang.com/file_upload/2017-HIT-AAA-Pacesetter.pdf)]
+36. 2017.11 哈尔滨工业大学（深圳）一等奖学金 [[pdf](https://www.jingxuanyang.com/file_upload/2017-First-Class-Scholarship.pdf)]
+37. 2017.11 国家奖学金 [[pdf](https://www.jingxuanyang.com/file_upload/2017-National-Scholarship.pdf)]
+38. 2017.05 全国大学生英语竞赛二等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2017-NECCS-2nd.pdf)]
+39. 2017.05 哈尔滨工业大学优秀团干部标兵 [[pdf](https://www.jingxuanyang.com/file_upload/2017-Outstanding-League-Cadre-Pacesetter.pdf)]
+40. 2016.04 河北省三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2016-Hebei-AAA.pdf)]
+41. 2015.10 河北省高中数学竞赛高三组一等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2015-High-School-Math-1st.pdf)]
+42. 2015.04 河北省三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2015-Hebei-AAA.pdf)]
+43. 2014.12 全国中学生英语能力竞赛高中二年级组二等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2015-High-School-English-2nd.pdf)]
+44. 2014.10 河北省高中数学竞赛高二组一等奖 [[pdf](https://www.jingxuanyang.com/file_upload/2014-High-School-Math-1st.pdf)]
+45. 2014.03 遵化市三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2014-Zunhua-AAA.pdf)]
+46. 2013.01 东旧寨镇中学优秀学生干部 [[pdf](https://www.jingxuanyang.com/file_upload/2013-Dongjiuzhai-Outstanding-Leader.pdf)]
+47. 2012.02 东旧寨镇中学三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2012-Dongjiuzhai-AAA.pdf)]
+48. 2011.03 唐山市三好学生 [[pdf](https://www.jingxuanyang.com/file_upload/2011-Tangshan-AAA.pdf)]
 
 ## 联系我
 
