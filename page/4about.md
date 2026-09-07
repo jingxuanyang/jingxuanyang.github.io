@@ -119,6 +119,7 @@ type: page
 * Gravatar: [jingxuanyang](https://gravatar.com/sublimepleasant8d352a2516)
 * Docker Hub: [jingxuanyang](https://hub.docker.com/u/jingxuanyang)
 * CSDN：[九一居士](https://me.csdn.net/csdn_jacksonyoung)
+* 百度百科：[杨敬轩](https://baike.baidu.com/item/%E6%9D%A8%E6%95%AC%E8%BD%A9/68920991)
 * 知乎：[九一居士](https://www.zhihu.com/people/jingxuanyang)
 * 微信公众号：[九一居士](http://mp.weixin.qq.com/mp/homepage?__biz=MzU5NzMzOTE5OQ==&hid=1&sn=175e47d89ad31c72d2a762f7c50c0ac2&scene=18#wechat_redirect)
 * 博客园：[九一居士](https://www.cnblogs.com/yangjingxuan/)
