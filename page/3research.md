@@ -11,16 +11,16 @@ type: page
 
 ## 科研项目
 
-1. 国家重点研发计划：**车路协同环境下车辆群体智能控制与测试验证**（项目号: 2018YFB1600600），2019.01-2022.06
-2. 国家重点研发计划：**自动驾驶仿真及数字孪生测试评价工具链**（项目号: 2021YFB2501200），2022.01-2025.12
-3. 国家重点研发计划：**高级别自动驾驶复杂行车环境风险认知、量化评估与安全决策技术**（项目号: 2023YFB2504400），2023.12-2026.11
-4. 国家自然科学基金面上项目：**智能安全攸关系统等效加速测试理论与方法研究**（项目号: 62473224），2025.01-2028.12
-5. 北京市科技新星计划（创新新星）项目：**车路协同环境下自动驾驶汽车自适应等效加速测试方法研究**，2023.10-2026.10
-6. 广汽研究院项目：**自动驾驶汽车双向交互自适应加速测试方法研究**，2024.05-2024.12
-7. 腾讯项目：**自动驾驶汽车典型场景自适应加速仿真测试研究**，2023.10-2024.06
-8. 公安部道路安全研究中心项目：**自动驾驶汽车法规符合性等效加速测试研究**，2023.10-2024.12
-9. 民航空管科技项目：**民航空管数据安全共享模型研究**，2021.01-2023.10
-10. 清华-清鹤联合研究中心项目：**医疗资源智能优化调度系统研究**，2020.09-2023.12
+1. 国家重点研发计划：**车路协同环境下车辆群体智能控制与测试验证**（项目号: 2018YFB1600600），参与，2019.01-2022.06
+2. 国家重点研发计划：**自动驾驶仿真及数字孪生测试评价工具链**（项目号: 2021YFB2501200），参与，2022.01-2025.12
+3. 国家重点研发计划：**高级别自动驾驶复杂行车环境风险认知、量化评估与安全决策技术**（项目号: 2023YFB2504400），参与，2023.12-2026.11
+4. 国家自然科学基金面上项目：**智能安全攸关系统等效加速测试理论与方法研究**（项目号: 62473224），参与，2025.01-2028.12
+5. 北京市科技新星计划（创新新星）项目：**车路协同环境下自动驾驶汽车自适应等效加速测试方法研究**，参与，2023.10-2026.10
+6. 广汽研究院项目：**自动驾驶汽车双向交互自适应加速测试方法研究**，参与，2024.05-2024.12
+7. 腾讯项目：**自动驾驶汽车典型场景自适应加速仿真测试研究**，参与，2023.10-2024.06
+8. 公安部道路安全研究中心项目：**自动驾驶汽车法规符合性等效加速测试研究**，参与，2023.10-2024.12
+9. 民航空管科技项目：**民航空管数据安全共享模型研究**，参与，2021.01-2023.10
+10. 清华-清鹤联合研究中心项目：**医疗资源智能优化调度系统研究**，参与，2020.09-2023.12
 
 <!--
 + 国家重点研发计划：**车路协同环境下车辆群体智能控制与测试验证**（项目号: 2018YFB1600600），2019.01-2022.06
@@ -62,7 +62,7 @@ type: page
 
 ### 英文论文
 
-1. **Jingxuan Yang**#, Weichao Xu#, Yuchen Shi, Yi Zhang, Shuo Feng, Huaxin Pei\*, "Intelligent Resilience Testing for Decision-Making Agents with Dual-Mode Surrogate Adaptation", submitted to IEEE Transactions on Automation Science and Engineering, under review, 10-Dec-2025. [[arXiv](https://arxiv.org/abs/2512.09372)]
+1. **Jingxuan Yang**#, Weichao Xu#, Yuchen Shi, Yi Zhang, Shuo Feng, Huaxin Pei\*, "Intelligent Resilience Testing for Decision-Making Agents with Dual-Mode Surrogate Adaptation", IEEE Transactions on Automation Science and Engineering, 2026, doi: [10.1109/TASE.2026.3741612](https://www.doi.org/10.1109/TASE.2026.3741612). [[arXiv](https://arxiv.org/abs/2512.09372)]
 2. **Jingxuan Yang**, Zihang Wang, Daihan Wang, Yi Zhang, Qiujing Lu, Shuo Feng\*, "Adaptive Safety Performance Testing for Autonomous Vehicles with Adaptive Importance Sampling", Transportation Research Part C: Emerging Technologies, vol. 179, 2025, 105256, doi: [10.1016/j.trc.2025.105256](https://www.doi.org/10.1016/j.trc.2025.105256). [[SSRN](https://ssrn.com/abstract=4993532)] [[pdf](https://www.jingxuanyang.com/file_upload/ADRL_TRC.pdf)] [[code](https://github.com/THU-AI-Testing/Adaptive-Testing-AIS)]
 3. **Jingxuan Yang**, Ruoxuan Bai, Haoyuan Ji, Yi Zhang, Jianming Hu, Shuo Feng\*, "Adaptive Testing Environment Generation for Connected and Automated Vehicles with Dense Reinforcement Learning", IEEE Transactions on Intelligent Transportation Systems, vol. 26, no. 4, pp. 5135-5145, 2025, doi: [10.1109/TITS.2025.3535866](https://www.doi.org/10.1109/TITS.2025.3535866). [[arXiv](https://arxiv.org/abs/2402.19275)] [[pdf](https://www.jingxuanyang.com/file_upload/2025-DenseRL-TITS.pdf)] [[code](https://github.com/THU-AI-Testing/Adaptive-Testing-DenseRL)]
 4. **Jingxuan Yang**, Haowei Sun, Honglin He, Yi Zhang, Henry X. Liu, Shuo Feng\*, "Adaptive Safety Evaluation for Connected and Automated Vehicles with Sparse Control Variates", IEEE Transactions on Intelligent Transportation Systems, vol. 25, no. 2, pp. 1761-1773, 2023, doi: [10.1109/TITS.2023.3317078](https://www.doi.org/10.1109/TITS.2023.3317078). [[arXiv](http://arxiv.org/abs/2212.00517)] [[pdf](https://www.jingxuanyang.com/file_upload/SCV_TITS.pdf)] [[code](https://github.com/THU-AI-Testing/Adaptive-Testing-SCV)]
