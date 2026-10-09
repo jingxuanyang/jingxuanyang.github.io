@@ -126,10 +126,6 @@ type: page
 * 简书：[九一居士](https://www.jianshu.com/u/268643305b4e)
 * 科学网：[杨敬轩](https://blog.sciencenet.cn/u/jxyang)
 
-<!--
-* 新浪：[九一居士](http://blog.sina.com.cn/jxyangsgr)
--->
-
 ## 关于本站
 
 若您想使用这个 jekyll 博客主题，请访问：[jingxuanyang.github.io](https://github.com/jingxuanyang/jingxuanyang.github.io)
