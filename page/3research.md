@@ -96,7 +96,7 @@ type: page
 14. 封硕、任坤、**杨敬轩**、陆秋婧、张毅、胡坚明，一种自动驾驶测试方法及自动驾驶测试装置，已受理，申请号：CN202411479527.7 [[说明书](https://www.jingxuanyang.com/file_upload/CN202411479527.pdf)]
 15. 裴华鑫、许伟超、**杨敬轩**、褚栖桐、赵千川，一种面向无人系统差异性的弹性测试方法及装置，已受理，申请号：CN202610243080.6 [[说明书](https://www.jingxuanyang.com/file_upload/CN202610243080.pdf)]
 16. 张毅、葛经纬、**杨敬轩**、晏松、胡坚明，一种车路协同环境下车辆动态可信关系建立方法及装置，已授权，专利号：ZL202111188778.6 [[说明书](https://www.jingxuanyang.com/file_upload/CN202111188778.pdf)] [[证书](https://www.jingxuanyang.com/file_upload/ZL2021111887786.pdf)]
-17. 张毅、葛经纬、姚丹亚、**杨敬轩**、史宇辰、李力、张佐，自动驾驶测试任务难度调整方法及装置、存储介质，已受理，申请号：CN202310364979.X [[说明书](https://www.jingxuanyang.com/file_upload/CN202310364979.pdf)]
+17. 张毅、葛经纬、姚丹亚、**杨敬轩**、史宇辰、李力、张佐，自动驾驶测试任务难度调整方法及装置、存储介质，已授权，专利号：ZL202310364979.X [[说明书](https://www.jingxuanyang.com/file_upload/CN202310364979.pdf)] [[证书](https://www.jingxuanyang.com/file_upload/ZL202310364979X.pdf)]
 18. 张毅、葛经纬、姚丹亚、**杨敬轩**、史宇辰、裴欣、张佐，自动驾驶测试场景库生成方法及装置、存储介质，已授权，专利号：ZL202310369199.4 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310369199.pdf)] [[证书](https://www.jingxuanyang.com/file_upload/ZL2023103691994.pdf)]
 19. 张毅、何泓霖、封硕、**杨敬轩**、裴华鑫、张佐，一种实现测试场景生成的模型的训练方法，已授权，专利号：ZL202310410081.1 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310410081.pdf)] [[证书](https://www.jingxuanyang.com/file_upload/ZL2023104100811.pdf)]
 20. 张毅、何泓霖、封硕、**杨敬轩**、彭黎辉、张佐，一种实现自动驾驶感知层测试场景生成的方法，已受理，申请号：CN202310513125.3 [[说明书](https://www.jingxuanyang.com/file_upload/CN202310513125.pdf)]
