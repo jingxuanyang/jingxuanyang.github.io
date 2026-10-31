@@ -19,7 +19,7 @@ type: page
 
 座右铭：为天地立心，为生民立命，为往圣继绝学，为万世开太平！
 
-最近更新：2026年10月
+最近更新：2026年11月
 
 ### 工作经历
 
@@ -41,7 +41,7 @@ type: page
 
 ### 奖励荣誉
 
-1. 2026.10 中国汽车工程学会博士学位论文激励计划提名
+1. 2026.10 中国汽车工程学会博士学位论文激励计划提名 [[pdf](https://www.jingxuanyang.com/file_upload/2026-CSAE-Outstanding-PhD-Thesis.pdf)]
 2. 2026.06 清华大学水木学者 [[pdf](https://www.jingxuanyang.com/file_upload/Shui-Mu-Tsinghua-Scholar.pdf)]
 3. 2026.06 清华大学优秀博士学位论文 [[pdf](https://www.jingxuanyang.com/file_upload/2026-THU-Best-PhD-Dissertation.pdf)]
 4. 2026.06 清华大学自动化系优秀毕业生 [[pdf](https://www.jingxuanyang.com/file_upload/2026-THUDA-Outstanding-Graduate.pdf)]
